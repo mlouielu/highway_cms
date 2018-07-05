@@ -1,0 +1,1128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XML_Head version="1.1" listname="CMS動態資訊" updatetime="2018/07/05 20:27:00" interval="120">
+	<Infos>
+		<Info cmsid="nfbCMS-N1-S-0.000-M" status="0"  message="請勿超速   超速加強取締"></Info>
+		<Info cmsid="nfbCMS-N1-S-0.730-M" status="0"  message="至  汐止  約 7分至  內湖  約11分"></Info>
+		<Info cmsid="nfbCMS-N1-S-5.500-M" status="0"  message="車輛請依規定合法懸掛車牌"></Info>
+		<Info cmsid="nfbCMS-N1-S-11.800-M" status="0"  message="至台北約10分  五股約15分"></Info>
+		<Info cmsid="nfbCMS-N1-S-15.800-M" status="0"  message="請勿超速   超速加強取締"></Info>
+		<Info cmsid="nfbCMS-N1-S-21.950-M" status="0"  message="請依速限行駛"></Info>
+		<Info cmsid="nfbCMS-N1-S-22.550-M" status="0"  message="請勿超速   超速加強取締"></Info>
+		<Info cmsid="nfbCMS-N1-S-23.600-M" status="0"  message="請依速限行駛"></Info>
+		<Info cmsid="nfbCMS-N1-S-24.826-M" status="0"  message="請勿超速   超速加強取締"></Info>
+		<Info cmsid="nfbCMS-N1-S-25.476-M" status="0"  message="至  五股  約 6分至  林口  約10分"></Info>
+		<Info cmsid="nfbCMS-N1-S-30.487-M" status="0"  message="至林口約 7分至桃園約12分"></Info>
+		<Info cmsid="nfbCMS-N1-S-34.500-M" status="0"  message="高架  楊梅約22分平面    約23分"></Info>
+		<Info cmsid="nfbCMS-N1-S-39.060-M" status="0"  message="國1(圖)平面  42.6K外路肩散落物"></Info>
+		<Info cmsid="nfbCMS-N1-S-39.630-M" status="0"  message="42.6外路肩散落物"></Info>
+		<Info cmsid="nfbCMS-N1-S-47.000-M" status="0"  message="不超速不逼車"></Info>
+		<Info cmsid="nfbCMS-N1-S-47.495-M" status="0"  message="至中壢約10分至楊梅約15分"></Info>
+		<Info cmsid="nfbCMS-N1-S-53.310-M" status="0"  message="行車不超速不逼迫前車讓道"></Info>
+		<Info cmsid="nfbCMS-N1-S-55.780-M" status="0"  message="行車不超速不逼迫前車讓道"></Info>
+		<Info cmsid="nfbCMS-N1-S-60.650-M" status="0"  message="至  竹北  約20分至  新竹  約22分"></Info>
+		<Info cmsid="nfbCMS-N1-S-65.600-M" status="0"  message="至  新竹  約19分至  頭份  約28分"></Info>
+		<Info cmsid="nfbCMS-N1-S-68.070-M" status="0"  message="行車不超速不逼迫前車讓道"></Info>
+		<Info cmsid="nfbCMS-N1-S-70.550-M" status="0"  message="行車不超速不逼迫前車讓道"></Info>
+		<Info cmsid="nfbCMS-N1-S-81.960-M" status="0"  message="至  新竹  約 9分至  頭份  約18分"></Info>
+		<Info cmsid="nfbCMS-N1-S-85.460-M" status="0"  message="　　　　　　　　　　　　"></Info>
+		<Info cmsid="nfbCMS-N1-S-86.070-M" status="0"  message="請依速限行駛"></Info>
+		<Info cmsid="nfbCMS-N1-S-89.110-M" status="0"  message="注意車前動態    保持安全距離"></Info>
+		<Info cmsid="nfbCMS-N1-S-91.800-M" status="0"  message="至頭份約12分至苗栗約25分"></Info>
+		<Info cmsid="nfbCMS-N1-S-92.700-M" status="0"  message="不超速不逼車"></Info>
+		<Info cmsid="nfbCMS-N1-N-0.285-M" status="0"  message="請開頭燈"></Info>
+		<Info cmsid="nfbCMS-N1-N-0.630-M" status="0"  message="請勿超速      超速加強取締"></Info>
+		<Info cmsid="nfbCMS-N1-N-1.940-M" status="0"  message="行車不超速不逼迫前車讓道"></Info>
+		<Info cmsid="nfbCMS-N1-N-3.170-M" status="0"  message="行車不超速不逼迫前車讓道"></Info>
+		<Info cmsid="nfbCMS-N1-N-6.200-M" status="0"  message="車輛請依規定合法懸掛車牌"></Info>
+		<Info cmsid="nfbCMS-N1-N-8.290-M" status="0"  message="車輛請依規定合法懸掛車牌"></Info>
+		<Info cmsid="nfbCMS-N1-N-13.260-M" status="0"  message="至  八堵  約 8分至  基隆  約10分"></Info>
+		<Info cmsid="nfbCMS-N1-N-14.500-M" status="0"  message="請依速限行駛"></Info>
+		<Info cmsid="nfbCMS-N1-N-16.150-M" status="0"  message="至汐止約 4分至基隆約11分"></Info>
+		<Info cmsid="nfbCMS-N1-N-18.260-M" status="0"  message="請勿超速   超速加強取締"></Info>
+		<Info cmsid="nfbCMS-N1-N-23.360-M" status="0"  message="至汐止約 9分至基隆約16分"></Info>
+		<Info cmsid="nfbCMS-N1-N-27.011-M" status="0"  message="至  內湖  約 8分至  汐止  約12分"></Info>
+		<Info cmsid="nfbCMS-N1-N-28.300-M" status="0"  message="行車不超速不逼迫前車讓道"></Info>
+		<Info cmsid="nfbCMS-N1-N-34.170-M" status="0"  message="至台北約 6分至內湖約12分"></Info>
+		<Info cmsid="nfbCMS-N1-N-36.810-M" status="0"  message="行車不超速不逼迫前車讓道"></Info>
+		<Info cmsid="nfbCMS-N1-N-40.200-M" status="0"  message="注意車前動態保持安全距離"></Info>
+		<Info cmsid="nfbCMS-N1-N-43.470-M" status="0"  message="至台北約11分至內湖約17分"></Info>
+		<Info cmsid="nfbCMS-N1-N-45.700-M" status="0"  message="請依速限行駛"></Info>
+		<Info cmsid="nfbCMS-N1-N-50.100-M" status="0"  message="至五股約11分至台北約16分"></Info>
+		<Info cmsid="nfbCMS-N1-N-56.350-M" status="0"  message="至林口約10分至五股約15分"></Info>
+		<Info cmsid="nfbCMS-N1-N-58.150-M" status="0"  message="行車不超速不逼迫前車讓道"></Info>
+		<Info cmsid="nfbCMS-N1-N-61.140-M" status="0"  message="行車不超速不逼迫前車讓道"></Info>
+		<Info cmsid="nfbCMS-N1-N-63.418-M" status="0"  message="至林口約14分至五股約18分"></Info>
+		<Info cmsid="nfbCMS-N1-N-68.300-M" status="0"  message="注意車前動態    保持安全距離"></Info>
+		<Info cmsid="nfbCMS-N1-N-70.160-M" status="0"  message="至桃園約14分至林口約18分"></Info>
+		<Info cmsid="nfbCMS-N1-N-73.000-M" status="0"  message="行車不超速不逼迫前車讓道"></Info>
+		<Info cmsid="nfbCMS-N1-N-85.400-M" status="0"  message="施工維護(圖)湖口交流道 出口內側施工"></Info>
+		<Info cmsid="nfbCMS-N1-N-87.490-M" status="0"  message="湖口交流道 出口內側施工"></Info>
+		<Info cmsid="nfbCMS-N1-N-92.050-M" status="0"  message="不超速不逼車"></Info>
+		<Info cmsid="nfbCMS-N1-N-92.675-M" status="0"  message="行車不超速不逼迫前車讓道"></Info>
+		<Info cmsid="nfbCMS-N1-N-98.310-M" status="0"  message="至  楊梅  約19分至  中壢  約23分"></Info>
+		<Info cmsid="nfbCMS-N1-N-100.446-M-國1" status="0"  message="國1(圖)至  機場系統約31分"></Info>
+		<Info cmsid="nfbCMS-N1-N-100.446-M-國3" status="0"  message="國3(圖)至  鶯歌系統約28分"></Info>
+		<Info cmsid="nfbCMS-N1-L-1.100-基隆" status="0"  message="酒駕零容忍 酒後不開車"></Info>
+		<Info cmsid="nfbCMS-N1-L-1.100-基隆-麥金路" status="0"  message="酒駕零容忍 酒後不開車"></Info>
+		<Info cmsid="nfbCMS-N1-L-1.100-八堵" status="0"  message="酒駕零容忍 酒後不開車"></Info>
+		<Info cmsid="nfbCMS-N1-L-1.100-八堵-水源路" status="0"  message="進出匝道   請打方向燈"></Info>
+		<Info cmsid="nfbCMS-N1-L-1.100-八堵-瑞八公路" status="0"  message="行車不超速不逼迫前車讓道"></Info>
+		<Info cmsid="nfbCMS-N1-L-10.500-汐止-大同路-西行" status="0"  message="酒駕零容忍 酒後不開車"></Info>
+		<Info cmsid="nfbCMS-N1-L-10.500-汐止-大同路-東行" status="0"  message="酒駕零容忍 酒後不開車"></Info>
+		<Info cmsid="nfbCMS-N1-L-17.000-內湖" status="0"  message="變換車道請打方向燈"></Info>
+		<Info cmsid="nfbCMS-N1-L-16.800-內湖-南湖大橋" status="0"  message="變換車道請打方向燈"></Info>
+		<Info cmsid="nfbCMS-N1-L-25.100-台北" status="0"  message="進出匝道    請打方向燈"></Info>
+		<Info cmsid="nfbCMS-N1-L-25.100-台北-北向" status="0"  message="進出匝道    請打方向燈"></Info>
+		<Info cmsid="nfbCMS-N1-L-27.100-三重" status="0"  message=""></Info>
+		<Info cmsid="nfbCMS-N1-N-33-L-1" status="0"  message="裝載貨物捆　牢靠"></Info>
+		<Info cmsid="nfbCMS-N1-L-33.100-五股-SN" status="0"  message="行車不超速不逼迫前車讓道"></Info>
+		<Info cmsid="nfbCMS-N1-L-33.100-五股-SW" status="0"  message="入口車輛請加速至主線速度後再進入主線"></Info>
+		<Info cmsid="nfbCMS-N1-L-33.100-五股-SN2" status="0"  message=""></Info>
+		<Info cmsid="nfbCMS-N1-L-49.000-N-3-桃園-中正路" status="0"  message="入口車輛請加速至主線速度後再進入主線"></Info>
+		<Info cmsid="nfbCMS-N1-L-69.200-楊梅-中山北路-北上" status="0"  message="進出匝道    請打方向燈"></Info>
+		<Info cmsid="nfbCMS-N1-L-69.200-楊梅-中山北路-南下" status="0"  message="進出匝道    請打方向燈"></Info>
+		<Info cmsid="nfbCMS-N1-L-91.000-竹北-光明六路" status="0"  message="行車不超速不逼迫前車讓道"></Info>
+		<Info cmsid="nfbCMS-N1H-S-17.150-M" status="0"  message="24.8外路肩故障車"></Info>
+		<Info cmsid="nfbCMS-N1H-S-17.510-M" status="0"  message="國1(圖)高架24.8K  外路肩故障車"></Info>
+		<Info cmsid="nfbCMS-N1H-S-25.500-M" status="0"  message="不超速不逼車"></Info>
+		<Info cmsid="nfbCMS-N1H-S-31.251-M" status="0"  message="高架  楊梅約24分平面    約26分"></Info>
+		<Info cmsid="nfbCMS-N1H-S-36.978-M" status="0"  message="注意車前動態    保持安全距離"></Info>
+		<Info cmsid="nfbCMS-N1H-S-38.520-M" status="0"  message="不超速不逼車"></Info>
+		<Info cmsid="nfbCMS-N1H-S-39.565-M" status="0"  message="不超速不逼車"></Info>
+		<Info cmsid="nfbCMS-N1H-S-42.435-M" status="0"  message="不超速不逼車"></Info>
+		<Info cmsid="nfbCMS-N1H-S-45.500-M" status="0"  message="不超速不逼車"></Info>
+		<Info cmsid="nfbCMS-N1H-S-48.550-M" status="0"  message="不超速不逼車"></Info>
+		<Info cmsid="nfbCMS-N1H-S-50.163-M" status="0"  message="國2(圖)至  桃園機場約 7分"></Info>
+		<Info cmsid="nfbCMS-N1H-S-53.845-M" status="0"  message="注意車前動態    保持安全距離"></Info>
+		<Info cmsid="nfbCMS-N1H-S-56.920-M" status="0"  message="注意車前動態    保持安全距離"></Info>
+		<Info cmsid="nfbCMS-N1H-S-62.000-M" status="0"  message="請依速限行駛"></Info>
+		<Info cmsid="nfbCMS-N1H-S-64.000-M" status="0"  message="請依速限行駛"></Info>
+		<Info cmsid="nfbCMS-N1H-S-66.959-M" status="0"  message="行車不超速不逼迫前車讓道"></Info>
+		<Info cmsid="nfbCMS-N1H-S-69.000-M" status="0"  message="請依速限行駛"></Info>
+		<Info cmsid="nfbCMS-N1H-S-69.250-M" status="0"  message="變換車道請打方向燈"></Info>
+		<Info cmsid="nfbCMS-N1H-N-20.300-M" status="0"  message="請依速限行駛"></Info>
+		<Info cmsid="nfbCMS-N1H-N-22.439-M" status="0"  message="駕駛人及乘客 前後座請繫安全帶"></Info>
+		<Info cmsid="nfbCMS-N1H-N-27.004-M" status="0"  message="至  汐止  約12分至  基隆  約17分"></Info>
+		<Info cmsid="nfbCMS-N1H-N-37.518-M" status="0"  message="高架  汐止約22分平面    約22分"></Info>
+		<Info cmsid="nfbCMS-N1H-N-41.250-M" status="0"  message="不超速不逼車"></Info>
+		<Info cmsid="nfbCMS-N1H-N-41.546-M" status="0"  message="不超速不逼車"></Info>
+		<Info cmsid="nfbCMS-N1H-N-44.520-M" status="0"  message="不超速不逼車"></Info>
+		<Info cmsid="nfbCMS-N1H-N-47.608-M" status="0"  message="不超速不逼車"></Info>
+		<Info cmsid="nfbCMS-N1H-N-50.923-M" status="0"  message="注意車前動態    保持安全距離"></Info>
+		<Info cmsid="nfbCMS-N1H-N-53.605-M" status="0"  message="注意車前動態    保持安全距離"></Info>
+		<Info cmsid="nfbCMS-N1H-N-56.133-M" status="0"  message="不超速不逼車"></Info>
+		<Info cmsid="nfbCMS-N1H-N-58.150-M" status="0"  message="國2(圖)至  桃園機場約 9分"></Info>
+		<Info cmsid="nfbCMS-N1H-N-62.374-M" status="0"  message="行車不超速不逼迫前車讓道"></Info>
+		<Info cmsid="nfbCMS-N1H-N-65.500-M" status="0"  message="請依速限行駛"></Info>
+		<Info cmsid="nfbCMS-N1H-N-67.000-M" status="0"  message="請依速限行駛"></Info>
+		<Info cmsid="nfbCMS-N1H-N-69.400-M" status="0"  message="請依速限行駛"></Info>
+		<Info cmsid="nfbCMS-N1H-L-18.800-堤頂" status="0"  message="(國1)高架南向  24.8K 外路肩故障車"></Info>
+		<Info cmsid="nfbCMS-N2-E-0.190-M" status="0"  message="至機場系統約 6分至鶯歌系統約14分"></Info>
+		<Info cmsid="nfbCMS-N2-E-2.900-M" status="0"  message="注意車前動態    保持安全距離"></Info>
+		<Info cmsid="nfbCMS-N2-E-7.452-M" status="0"  message="至南桃園  約 3分至  大湳  約 8分"></Info>
+		<Info cmsid="nfbCMS-N2-E-10.355-M" status="0"  message="駛出高速公路嚴禁強行插隊"></Info>
+		<Info cmsid="nfbCMS-N2-E-16.530-M" status="0"  message="行車不超速不逼迫前車讓道"></Info>
+		<Info cmsid="nfbCMS-N2-E-19.300-M" status="0"  message="行車不超速不逼迫前車讓道"></Info>
+		<Info cmsid="nfbCMS-N2-W-2.450-M" status="0"  message="注意車前動態    保持安全距離"></Info>
+		<Info cmsid="nfbCMS-N2-W-6.410-M" status="0"  message="注意車前動態    保持安全距離"></Info>
+		<Info cmsid="nfbCMS-N2-W-10.623-M" status="0"  message="行車不超速不逼迫前車讓道"></Info>
+		<Info cmsid="nfbCMS-N2-W-13.305-M" status="0"  message="至  桃園機場約 9分"></Info>
+		<Info cmsid="nfbCMS-N2-W-19.710-M" status="0"  message="至  桃園機場約13分"></Info>
+		<Info cmsid="nfbCMS-N2-L-18.500-大湳-E" status="0"  message="入口車輛請加速至主線速度後再進入主線"></Info>
+		<Info cmsid="nfbCMS-N2-L-18.500-大湳-W" status="0"  message="入口車輛請加速至主線速度後再進入主線"></Info>
+		<Info cmsid="nfbCMS-N3-L-0.000-基金-基隆" status="0"  message=""></Info>
+		<Info cmsid="nfbCMS-N3-S-0.620-M" status="0"  message="車輛請依規定合法懸掛車牌"></Info>
+		<Info cmsid="nfbCMS-N3-S-1.410-M" status="0"  message="開車不分心你我都安心"></Info>
+		<Info cmsid="nfbCMS-N3-S-4.320-M" status="0"  message="只要喝酒    就不要開車"></Info>
+		<Info cmsid="nfbCMS-N3-S-5.286-M" status="0"  message="變換車道 請打方向燈"></Info>
+		<Info cmsid="nfbCMS-N3-S-7.480-M" status="0"  message="變換車道 請打方向燈"></Info>
+		<Info cmsid="nfbCMS-N3-S-8.320-M-右" status="0"  message="請開頭燈"></Info>
+		<Info cmsid="nfbCMS-N3-S-8.320-M-左" status="0"  message="請開頭燈"></Info>
+		<Info cmsid="nfbCMS-N3-S-11.590-M" status="0"  message="注意車前動態    保持安全距離"></Info>
+		<Info cmsid="nfbCMS-N3-S-14.369-M" status="0"  message="至新店約 9分  中和約15分"></Info>
+		<Info cmsid="nfbCMS-N3-S-17.934-M" status="0"  message="變換車道 請打方向燈"></Info>
+		<Info cmsid="nfbCMS-N3-S-18.950-M-右" status="0"  message="請開頭燈"></Info>
+		<Info cmsid="nfbCMS-N3-S-18.950-M-左" status="0"  message="請開頭燈"></Info>
+		<Info cmsid="nfbCMS-N3-S-19.750-M" status="0"  message="請開頭燈"></Info>
+		<Info cmsid="nfbCMS-N3-S-20.169-M" status="0"  message="至中和約11分  土城約16分"></Info>
+		<Info cmsid="nfbCMS-N3-S-22.700-M-右" status="0"  message="請開頭燈"></Info>
+		<Info cmsid="nfbCMS-N3-S-22.700-M-左" status="0"  message="請開頭燈"></Info>
+		<Info cmsid="nfbCMS-N3-S-23.960-M" status="0"  message="請依速限行駛"></Info>
+		<Info cmsid="nfbCMS-N3-S-24.220-M-右" status="0"  message="請開頭燈"></Info>
+		<Info cmsid="nfbCMS-N3-S-24.220-M-左" status="0"  message="請開頭燈"></Info>
+		<Info cmsid="nfbCMS-N3-S-25.704-M" status="0"  message="至中和約 8分  土城約12分"></Info>
+		<Info cmsid="nfbCMS-N3-S-27.810-M-右" status="0"  message="請開頭燈"></Info>
+		<Info cmsid="nfbCMS-N3-S-27.810-M-左" status="0"  message="請開頭燈"></Info>
+		<Info cmsid="nfbCMS-N3-S-28.540-M" status="0"  message="請依速限行駛"></Info>
+		<Info cmsid="nfbCMS-N3-S-28.820-M-右" status="0"  message="請開頭燈"></Info>
+		<Info cmsid="nfbCMS-N3-S-28.820-M-左" status="0"  message="請開頭燈"></Info>
+		<Info cmsid="nfbCMS-N3-S-30.110-M" status="0"  message="駛出高速公路嚴禁強行插隊"></Info>
+		<Info cmsid="nfbCMS-N3-S-32.850-M-右" status="0"  message="請開頭燈"></Info>
+		<Info cmsid="nfbCMS-N3-S-32.850-M-左" status="0"  message="請開頭燈"></Info>
+		<Info cmsid="nfbCMS-N3-S-33.870-M" status="0"  message="駛出高速公路嚴禁強行插隊"></Info>
+		<Info cmsid="nfbCMS-N3-S-34.530-M-左" status="0"  message="請開頭燈"></Info>
+		<Info cmsid="nfbCMS-N3-S-34.550-M-右" status="0"  message="請開頭燈"></Info>
+		<Info cmsid="nfbCMS-N3-S-34.880-M" status="0"  message="請開頭燈"></Info>
+		<Info cmsid="nfbCMS-N3-S-41.615-M" status="0"  message="至大溪約15分  龍潭約19分"></Info>
+		<Info cmsid="nfbCMS-N3-S-45.680-M" status="0"  message="行車不超速不逼迫前車讓道"></Info>
+		<Info cmsid="nfbCMS-N3-S-49.730-M" status="0"  message="至大溪約 8分  龍潭約12分"></Info>
+		<Info cmsid="nfbCMS-N3-S-58.985-M" status="0"  message="注意車前動態保持安全距離"></Info>
+		<Info cmsid="nfbCMS-N3-S-59.790-M-右" status="0"  message="依限加速"></Info>
+		<Info cmsid="nfbCMS-N3-S-59.790-M-左" status="0"  message="依限加速"></Info>
+		<Info cmsid="nfbCMS-N3-S-60.180-M" status="0"  message="車輛請依規定合法懸掛車牌"></Info>
+		<Info cmsid="nfbCMS-N3-S-60.360-M-右" status="0"  message="依限加速"></Info>
+		<Info cmsid="nfbCMS-N3-S-60.360-M-左" status="0"  message="依限加速"></Info>
+		<Info cmsid="nfbCMS-N3-S-67.200-M" status="0"  message="注意車前動態    保持安全距離"></Info>
+		<Info cmsid="nfbCMS-N3-S-69.695-M" status="0"  message="至  竹林  約12分"></Info>
+		<Info cmsid="nfbCMS-N3-S-71.350-M" status="0"  message="注意車前動態保持安全距離"></Info>
+		<Info cmsid="nfbCMS-N3-S-75.400-M" status="0"  message="進出匝道 請打方向燈"></Info>
+		<Info cmsid="nfbCMS-N3-S-78.185-M" status="0"  message="至寶山約12分  香山約18分"></Info>
+		<Info cmsid="nfbCMS-N3-S-89.078-M" status="0"  message="至寶山約 6分  香山約12分"></Info>
+		<Info cmsid="nfbCMS-N3-S-95.628-M" status="0"  message="乘車請繫安全帶"></Info>
+		<Info cmsid="nfbCMS-N3-S-96.330-M" status="0"  message="請依速限行駛"></Info>
+		<Info cmsid="nfbCMS-N3-S-97.800-M" status="0"  message="至  香山  約 7分至  後龍  約19分"></Info>
+		<Info cmsid="nfbCMS-N3-S-102.603-M" status="0"  message="至竹南約10分  後龍約16分"></Info>
+		<Info cmsid="nfbCMS-N3-S-107.843-M" status="0"  message="至竹南約 7分  後龍約13分"></Info>
+		<Info cmsid="nfbCMS-N3-L-0.000-基金-萬里" status="0"  message=""></Info>
+		<Info cmsid="nfbCMS-N3-N-1.370-M" status="0"  message="開車不分心你我都安心"></Info>
+		<Info cmsid="nfbCMS-N3-N-2.110-M" status="0"  message="施工維護(圖)前方基隆隧道內2線 施工"></Info>
+		<Info cmsid="nfbCMS-N3-N-2.580-M" status="0"  message="施工維護(圖)基隆隧道   內2線 施工"></Info>
+		<Info cmsid="nfbCMS-N3-N-5.485-M" status="0"  message="基隆隧道 內2線 施工 注意"></Info>
+		<Info cmsid="nfbCMS-N3-N-6.786-M" status="0"  message="駛出高速公路嚴禁強行插隊"></Info>
+		<Info cmsid="nfbCMS-N3-N-8.400-M-右" status="0"  message="請開頭燈"></Info>
+		<Info cmsid="nfbCMS-N3-N-8.400-M-左" status="0"  message="請開頭燈"></Info>
+		<Info cmsid="nfbCMS-N3-N-9.215-M" status="0"  message="變換車道 請打方向燈"></Info>
+		<Info cmsid="nfbCMS-N3-N-13.680-M" status="0"  message="至  基金  約10分"></Info>
+		<Info cmsid="nfbCMS-N3-N-17.090-M" status="0"  message="注意車前動態    保持安全距離"></Info>
+		<Info cmsid="nfbCMS-N3-N-19.100-M-右" status="0"  message="請開頭燈"></Info>
+		<Info cmsid="nfbCMS-N3-N-19.100-M-左" status="0"  message="請開頭燈"></Info>
+		<Info cmsid="nfbCMS-N3-N-20.100-M" status="0"  message="注意車前動態"></Info>
+		<Info cmsid="nfbCMS-N3-N-20.215-M" status="0"  message="乘車請繫安全帶"></Info>
+		<Info cmsid="nfbCMS-N3-N-21.692-M" status="0"  message="至汐止約11分  基金約15分"></Info>
+		<Info cmsid="nfbCMS-N3-N-22.890-M-右" status="0"  message="請開頭燈"></Info>
+		<Info cmsid="nfbCMS-N3-N-22.890-M-左" status="0"  message="請開頭燈"></Info>
+		<Info cmsid="nfbCMS-N3-N-23.760-M" status="0"  message="請依速限行駛"></Info>
+		<Info cmsid="nfbCMS-N3-N-24.200-M-右" status="0"  message="請開頭燈"></Info>
+		<Info cmsid="nfbCMS-N3-N-24.200-M-左" status="0"  message="請開頭燈"></Info>
+		<Info cmsid="nfbCMS-N3-N-24.790-M" status="0"  message="變換車道 請打方向燈"></Info>
+		<Info cmsid="nfbCMS-N3-N-27.980-M-右" status="0"  message="請開頭燈"></Info>
+		<Info cmsid="nfbCMS-N3-N-27.980-M-左" status="0"  message="請開頭燈"></Info>
+		<Info cmsid="nfbCMS-N3-N-28.410-M" status="0"  message="請依速限行駛"></Info>
+		<Info cmsid="nfbCMS-N3-N-28.800-M-右" status="0"  message="請開頭燈"></Info>
+		<Info cmsid="nfbCMS-N3-N-28.800-M-左" status="0"  message="請開頭燈"></Info>
+		<Info cmsid="nfbCMS-N3-N-30.149-M" status="0"  message="變換車道 請打方向燈"></Info>
+		<Info cmsid="nfbCMS-N3-N-32.910-M-右" status="0"  message="請開頭燈"></Info>
+		<Info cmsid="nfbCMS-N3-N-32.910-M-左" status="0"  message="請開頭燈"></Info>
+		<Info cmsid="nfbCMS-N3-N-33.368-M" status="0"  message="變換車道 請打方向燈"></Info>
+		<Info cmsid="nfbCMS-N3-N-34.750-M-右" status="0"  message="請開頭燈"></Info>
+		<Info cmsid="nfbCMS-N3-N-34.750-M-左" status="0"  message="請開頭燈"></Info>
+		<Info cmsid="nfbCMS-N3-N-36.820-M" status="0"  message="至木柵約11分  汐止約18分"></Info>
+		<Info cmsid="nfbCMS-N3-N-39.250-M" status="0"  message="請依速限行駛"></Info>
+		<Info cmsid="nfbCMS-N3-N-43.650-M" status="0"  message="變換車道 請打方向燈"></Info>
+		<Info cmsid="nfbCMS-N3-N-47.550-M" status="0"  message="注意車前動態保持安全距離"></Info>
+		<Info cmsid="nfbCMS-N3-N-51.490-M" status="0"  message="至  中和  約12分"></Info>
+		<Info cmsid="nfbCMS-N3-N-52.650-M" status="0"  message="請依速限行駛"></Info>
+		<Info cmsid="nfbCMS-N3-N-59.750-M-右" status="0"  message="請開頭燈"></Info>
+		<Info cmsid="nfbCMS-N3-N-59.750-M-左" status="0"  message="請開頭燈"></Info>
+		<Info cmsid="nfbCMS-N3-N-60.210-M" status="0"  message="車輛請依規定合法懸掛車牌"></Info>
+		<Info cmsid="nfbCMS-N3-N-60.520-M-右" status="0"  message="請開頭燈"></Info>
+		<Info cmsid="nfbCMS-N3-N-60.520-M-左" status="0"  message="請開頭燈"></Info>
+		<Info cmsid="nfbCMS-N3-N-61.490-M" status="0"  message="注意車前動態保持安全距離"></Info>
+		<Info cmsid="nfbCMS-N3-N-69.335-M" status="0"  message="乘車請繫安全帶"></Info>
+		<Info cmsid="nfbCMS-N3-N-73.425-M" status="0"  message="乘車請繫安全帶"></Info>
+		<Info cmsid="nfbCMS-N3-N-78.300-M" status="0"  message="乘車請繫安全帶"></Info>
+		<Info cmsid="nfbCMS-N3-N-80.373-M" status="0"  message="至大溪約10分  土城約24分"></Info>
+		<Info cmsid="nfbCMS-N3-N-91.689-M" status="0"  message="至龍潭約14分  大溪約17分"></Info>
+		<Info cmsid="nfbCMS-N3-N-99.700-M" status="0"  message="至關西約12分  龍潭約18分"></Info>
+		<Info cmsid="nfbCMS-N3-N-102.803-M-國1" status="0"  message="國1(圖)至  機場系統約31分"></Info>
+		<Info cmsid="nfbCMS-N3-N-102.803-M-國3" status="0"  message="國3(圖)至  鶯歌系統約28分"></Info>
+		<Info cmsid="nfbCMS-N3-N-105.200-M" status="0"  message="至竹林約 9分  關西約15分"></Info>
+		<Info cmsid="nfbCMS-N3-L-12.700-新台五路-好市多" status="0"  message="酒駕零容忍 酒後不開車"></Info>
+		<Info cmsid="nfbCMS-N3-L-12.700-新台五路-遠東世界" status="0"  message="酒駕零容忍 酒後不開車"></Info>
+		<Info cmsid="nfbCMS-N3-L-20.800-木柵" status="0"  message="請勿超速   超速加強取締"></Info>
+		<Info cmsid="nfbCMS-N3-L-26.800-新店-中興路-N" status="0"  message="請勿超速   超速加強取締"></Info>
+		<Info cmsid="nfbCMS-N3-L-26.800-新店-中興路-S" status="0"  message=""></Info>
+		<Info cmsid="nfbCMS-N3-L-31.100-安坑-總站" status="0"  message="請勿超速   超速加強取締"></Info>
+		<Info cmsid="nfbCMS-N3-L-31.100-安坑-中央路" status="0"  message="請勿超速   超速加強取締"></Info>
+		<Info cmsid="nfbCMS-N3-L-31.100-安坑-安１路" status="0"  message="請勿超速      超速加強取締"></Info>
+		<Info cmsid="nfbCMS-N3-L-31.100-安坑-環河路" status="0"  message=""></Info>
+		<Info cmsid="nfbCMS-N3-L-31.100-安坑-安康路西行" status="0"  message="進出匝道    請打方向燈"></Info>
+		<Info cmsid="nfbCMS-N3-L-31.100-安坑-安康路東行" status="0"  message="進出匝道    請打方向燈"></Info>
+		<Info cmsid="nfbCMS-N3-L-35.900-中和-中正路" status="0"  message="請勿超速   超速加強取締"></Info>
+		<Info cmsid="nfbCMS-N3-L-35.900-中和-連城路" status="0"  message="請勿超速   超速加強取締"></Info>
+		<Info cmsid="nfbCMS-N3-L-35.900-中和-文化路一段" status="0"  message=""></Info>
+		<Info cmsid="nfbCMS-N3-L-35.900-中和-文化路二段" status="0"  message="保持車距   確保行車安全"></Info>
+		<Info cmsid="nfbCMS-N3-L-35.900-中和-中正路855號" status="0"  message=""></Info>
+		<Info cmsid="nfbCMS-N3-L-43.000-土城-西向" status="0"  message="土城南向入口壅塞"></Info>
+		<Info cmsid="nfbCMS-N3-L-43.000-土城-東向" status="0"  message="土城南向入口壅塞"></Info>
+		<Info cmsid="nfbCMS-N3-L-62.700-大溪-112甲線-台3" status="0"  message="入口車輛請加速至主線速度後再進入主線"></Info>
+		<Info cmsid="nfbCMS-N3-L-68.300-龍潭-台3" status="0"  message="入口車輛請加速至主線速度後再進入主線"></Info>
+		<Info cmsid="nfbCMS-N3-L-79.300-關西-118線" status="0"  message=""></Info>
+		<Info cmsid="nfbCMS-N3-L-90.300-竹林-120線-南向" status="0"  message=""></Info>
+		<Info cmsid="nfbCMS-N3-L-103.900-茄苳-景觀大道-北上" status="0"  message="入口車輛請加速至主線速度後再進入主線"></Info>
+		<Info cmsid="nfbCMS-N3-L-103.900-茄苳-景觀大道-南下" status="0"  message="行車不超速不逼迫前車讓道"></Info>
+		<Info cmsid="nfbCMS-N3-L-109.600-香山-公義路" status="0"  message="行車不超速不逼迫前車讓道"></Info>
+		<Info cmsid="nfbCMS-N3-L-109.600-香山-中華路-北上" status="0"  message="酒駕零容忍 酒後不開車"></Info>
+		<Info cmsid="nfbCMS-N3-L-109.600-香山-中華路-南下" status="0"  message="酒駕零容忍 酒後不開車"></Info>
+		<Info cmsid="nfbCMS-N3A-E-0.600-M" status="0"  message="請依速限行駛"></Info>
+		<Info cmsid="nfbCMS-N3A-E-1.516-M" status="0"  message="注意車前動態保持安全距離"></Info>
+		<Info cmsid="nfbCMS-N3A-E-2.350-M" status="0"  message="請開頭燈"></Info>
+		<Info cmsid="nfbCMS-N3A-E-4.135-M" status="0"  message="酒駕零容忍 酒後不開車"></Info>
+		<Info cmsid="nfbCMS-N3A-W-1.151-M" status="0"  message="注意車前動態保持安全距離"></Info>
+		<Info cmsid="nfbCMS-N3A-W-2.510-M" status="0"  message="請開頭燈"></Info>
+		<Info cmsid="nfbCMS-N3A-W-2.830-M" status="0"  message="請依速限行駛"></Info>
+		<Info cmsid="nfbCMS-N3A-W-4.516-M" status="0"  message="注意車前動態保持安全距離"></Info>
+		<Info cmsid="nfbCMS-N3A-L-0.000-北市辛亥路" status="0"  message="請勿超速   超速加強取締"></Info>
+		<Info cmsid="nfbCMS-N3A-L-0.000-北市基隆路" status="0"  message="請勿超速   超速加強取締"></Info>
+		<Info cmsid="nfbCMS-N3A-L-3.600-萬芳-木柵路五段" status="0"  message="請勿超速   超速加強取締"></Info>
+		<Info cmsid="nfbCMS-N3A-L-5.100-木柵-文山路" status="0"  message="請勿超速   超速加強取締"></Info>
+		<Info cmsid="nfbCMS-N3A-L-5.100-木柵-新光路" status="0"  message="行車不超速不逼迫前車讓道"></Info>
+		<Info cmsid="nfbCMS-N3K-S-0.000-M" status="0"  message="請依速限行駛"></Info>
+		<Info cmsid="nfbCMS-N3K-S-1.970-M" status="0"  message="變換車道請打方向燈"></Info>
+		<Info cmsid="nfbCMS-N3K-S-2.720-M" status="0"  message="變換車道請打方向燈"></Info>
+		<Info cmsid="nfbCMS-N3K-N-1.090-M" status="0"  message="注意車前動態保持安全距離"></Info>
+		<Info cmsid="nfbCMS-N3K-N-2.700-M" status="0"  message="注意車前動態保持安全距離"></Info>
+		<Info cmsid="nfbCMS-N3K-N-3.360-M" status="0"  message="變換車道請打方向燈"></Info>
+		<Info cmsid="nfbCMS-N3K-S-0-L-ES-1-港區西櫃" status="0"  message="請依速限行駛"></Info>
+		<Info cmsid="nfbCMS-N3K-S-0-L-WS-1-港區西櫃" status="0"  message="請依速限行駛"></Info>
+		<Info cmsid="nfbCMS-N3K-S-2-L-WS-1-德安路" status="0"  message="請依速限行駛"></Info>
+		<Info cmsid="nfbCMS-N3K-S-3-L-WS-1-中和路" status="0"  message="請依速限行駛"></Info>
+		<Info cmsid="nfbCMS-N3K-N-4-L-EN-1-基金一路" status="0"  message="請依速限行駛"></Info>
+		<Info cmsid="nfbCMS-T62-E-1.76-M" status="0"  message="注意車前動態    保持安全距離"></Info>
+		<Info cmsid="nfbCMS-T62-E-2.90-M" status="0"  message="注意車前動態    保持安全距離"></Info>
+		<Info cmsid="nfbCMS-T62-E-4.79-M" status="0"  message="注意車前動態    保持安全距離"></Info>
+		<Info cmsid="nfbCMS-T62-E-7.71-M" status="0"  message="注意車前動態    保持安全距離"></Info>
+		<Info cmsid="nfbCMS-T62-E-12.35-M" status="0"  message="注意車前動態    保持安全距離"></Info>
+		<Info cmsid="nfbCMS-T62-E-13.75-M" status="0"  message="注意車前動態    保持安全距離"></Info>
+		<Info cmsid="nfbCMS-T62-E-14.96-M" status="0"  message="注意車前動態    保持安全距離"></Info>
+		<Info cmsid="nfbCMS-T62-E-16.95-M" status="0"  message="注意車前動態    保持安全距離"></Info>
+		<Info cmsid="nfbCMS-T62-W-1.765-M" status="0"  message="注意車前動態    保持安全距離"></Info>
+		<Info cmsid="nfbCMS-T62-W-3.03-M" status="0"  message="國3(圖)北向基隆隧道內2線 施工"></Info>
+		<Info cmsid="nfbCMS-T62-W-4.77-M" status="0"  message="國3(圖)北向基隆隧道內2線 施工"></Info>
+		<Info cmsid="nfbCMS-T62-W-7.70-M" status="0"  message="注意車前動態    保持安全距離"></Info>
+		<Info cmsid="nfbCMS-T62-W-11.09-M" status="0"  message="注意車前動態    保持安全距離"></Info>
+		<Info cmsid="nfbCMS-T62-W-13.860-M" status="0"  message="夜間行車       勿疲勞駕駛"></Info>
+		<Info cmsid="nfbCMS-T62-W-15.45-M" status="0"  message="注意車前動態    保持安全距離"></Info>
+		<Info cmsid="nfbCMS-T62-W-18.51-M" status="0"  message="注意車前動態    保持安全距離"></Info>
+		<Info cmsid="nfbCMS-T62-N-0-L-1" status="0"  message="變換車道請打方向燈"></Info>
+		<Info cmsid="nfbCMS-T62-S-0-L-1" status="0"  message="變換車道請打方向燈"></Info>
+		<Info cmsid="nfbCMS-T62-N-3-L-1" status="0"  message="變換車道請打方向燈"></Info>
+		<Info cmsid="nfbCMS-T62-S-3-L-1" status="0"  message="變換車道請打方向燈"></Info>
+		<Info cmsid="nfbCMS-T62-E-13-L-2" status="0"  message="變換車道請打方向燈"></Info>
+		<Info cmsid="nfbCMS-T62-W-13-L-1" status="0"  message="變換車道請打方向燈"></Info>
+		<Info cmsid="nfbCMS-T62-W-13-L-2" status="0"  message=""></Info>
+		<Info cmsid="nfbCMS-T62-W-16-L-1" status="0"  message="變換車道請打方向燈"></Info>
+		<Info cmsid="nfbCMS-T62-S-16-L-1" status="0"  message="不超速不逼車"></Info>
+		<Info cmsid="nfbCMS-T62-N-19-L-1" status="0"  message="變換車道請打方向燈"></Info>
+		<Info cmsid="nfbCMS-T62-S-19-L-1" status="0"  message="不超速不逼車"></Info>
+		<Info cmsid="nfbCMS-T64-E-2.08-M" status="0"  message="注意車前動態    保持安全距離"></Info>
+		<Info cmsid="nfbCMS-T64-E-4.07-M" status="0"  message="隧道內請開啟前後車燈"></Info>
+		<Info cmsid="nfbCMS-T64-E-5.45-M" status="0"  message=""></Info>
+		<Info cmsid="nfbCMS-T64-E-8.22-M" status="0"  message="注意車前動態    保持安全距離"></Info>
+		<Info cmsid="nfbCMS-T64-E-10.740-M" status="0"  message="請依速限行駛"></Info>
+		<Info cmsid="nfbCMS-T64-E-13.23-M" status="0"  message="注意車前動態    保持安全距離"></Info>
+		<Info cmsid="nfbCMS-T64-E-16.63-M" status="0"  message="注意車前動態    保持安全距離"></Info>
+		<Info cmsid="nfbCMS-T64-E-18.89-M" status="0"  message="23-6封閉(台64) 新店→中和二"></Info>
+		<Info cmsid="nfbCMS-T64-E-22.18-M" status="0"  message="23-6封閉(台64) 新店→中和二"></Info>
+		<Info cmsid="nfbCMS-T64-E-23.13-M" status="0"  message="23-6封閉(台64) 新店→中和二"></Info>
+		<Info cmsid="nfbCMS-T64-E-24.43-M" status="0"  message="23-6封閉(台64) 新店→中和二"></Info>
+		<Info cmsid="nfbCMS-T64-W-2.07-M" status="0"  message="開車不分心     你我都安心"></Info>
+		<Info cmsid="nfbCMS-T64-W-4.03-M" status="0"  message="隧道內請開啟前後車燈"></Info>
+		<Info cmsid="nfbCMS-T64-W-5.63-M" status="0"  message="開車不分心     你我都安心"></Info>
+		<Info cmsid="nfbCMS-T64-W-7.34-M" status="0"  message=""></Info>
+		<Info cmsid="nfbCMS-T64-W-13.41-M" status="0"  message="注意車前動態    保持安全距離"></Info>
+		<Info cmsid="nfbCMS-T64-W-17.14-M" status="0"  message="23-6時 封閉(台64)  西向新店→中和二"></Info>
+		<Info cmsid="nfbCMS-T64-W-19.85-M" status="0"  message="23-6時 封閉(台64)  西向新店→中和二"></Info>
+		<Info cmsid="nfbCMS-T64-W-21.23-M" status="0"  message="23-6時封閉(台64)新店→中和二"></Info>
+		<Info cmsid="nfbCMS-T64-W-22.37-M" status="0"  message="23-6時封閉(台64)新店→中和二"></Info>
+		<Info cmsid="nfbCMS-T64-E-0-L-1" status="0"  message=""></Info>
+		<Info cmsid="nfbCMS-T64-N-0-L-1" status="0"  message=""></Info>
+		<Info cmsid="nfbCMS-T64-S-0-L-1" status="0"  message=""></Info>
+		<Info cmsid="nfbCMS-T64-E-1-L-1" status="0"  message="變換車道請打方向燈"></Info>
+		<Info cmsid="nfbCMS-T64-N-1-L-1" status="0"  message="裝載貨物捆紮牢靠"></Info>
+		<Info cmsid="nfbCMS-T64-S-1-L-1" status="0"  message=""></Info>
+		<Info cmsid="nfbCMS-T64-N-6-L-1" status="0"  message="變換車道請打方向燈"></Info>
+		<Info cmsid="nfbCMS-T64-S-6-L-1" status="0"  message="裝載貨物捆紮牢靠"></Info>
+		<Info cmsid="nfbCMS-T64-L-11-E-1" status="0"  message="變換車道請打方向燈"></Info>
+		<Info cmsid="nfbCMS-T64-W-11-L-1" status="0"  message="裝載貨物捆紮牢靠"></Info>
+		<Info cmsid="nfbCMS-T64-W-14-L-1" status="0"  message="裝載貨物捆紮牢靠"></Info>
+		<Info cmsid="nfbCMS-T64-E-19-L-1" status="0"  message="裝載貨物捆紮牢靠"></Info>
+		<Info cmsid="nfbCMS-T64-E-25-L-1" status="0"  message="變換車道請打方向燈"></Info>
+		<Info cmsid="nfbCMS-T64-L-35.900-中和-匝道" status="0"  message="進出匝道    請打方向燈"></Info>
+		<Info cmsid="nfbCMS-T66-E-0.350-M" status="0"  message="進出匝道    請打方向燈"></Info>
+		<Info cmsid="nfbCMS-T66-E-3.700-M" status="0"  message="駕駛人及乘客 前後座請繫安全帶"></Info>
+		<Info cmsid="nfbCMS-T66-E-9.500-M" status="0"  message="駕駛人及乘客 前後座請繫安全帶"></Info>
+		<Info cmsid="nfbCMS-T66-E-16.325-M" status="0"  message="駕駛人及乘客 前後座請繫安全帶"></Info>
+		<Info cmsid="nfbCMS-T66-E-19.850-M" status="0"  message="進出匝道    請打方向燈"></Info>
+		<Info cmsid="nfbCMS-T66-E-21.980-M" status="0"  message="進出匝道    請打方向燈"></Info>
+		<Info cmsid="nfbCMS-T66-E-25.200-M" status="0"  message="進出匝道    請打方向燈"></Info>
+		<Info cmsid="nfbCMS-T66-W-1.900-M" status="0"  message="駕駛人及乘客 前後座請繫安全帶"></Info>
+		<Info cmsid="nfbCMS-T66-W-7.020-M" status="0"  message="駕駛人及乘客 前後座請繫安全帶"></Info>
+		<Info cmsid="nfbCMS-T66-W-12.450-M" status="0"  message=""></Info>
+		<Info cmsid="nfbCMS-T66-W-19.721-M" status="0"  message="進出匝道    請打方向燈"></Info>
+		<Info cmsid="nfbCMS-T66-W-22.360-M" status="0"  message="進出匝道    請打方向燈"></Info>
+		<Info cmsid="nfbCMS-T66-W-25.464-M" status="0"  message="進出匝道    請打方向燈"></Info>
+		<Info cmsid="nfbCMS-T66-L-20.700-平鎮二-西向" status="0"  message="入口車輛請加速至主線速度後再進入主線"></Info>
+		<Info cmsid="nfbCMS-T68-E-3.90-M" status="0"  message="注意車前動態    保持安全距離"></Info>
+		<Info cmsid="nfbCMS-T68-E-5.66-M" status="0"  message="車輛請依規定合法懸掛車牌"></Info>
+		<Info cmsid="nfbCMS-T68-E-8.76-M" status="0"  message="車輛請依規定合法懸掛車牌"></Info>
+		<Info cmsid="nfbCMS-T68-E-14.6-M" status="0"  message="變換車道請打方向燈"></Info>
+		<Info cmsid="nfbCMS-T68-E-17.44-M" status="0"  message="注意車前動態    保持安全距離"></Info>
+		<Info cmsid="nfbCMS-T68-W-1.86-M" status="0"  message="注意車前動態    保持安全距離"></Info>
+		<Info cmsid="nfbCMS-T68-W-6.24-M" status="0"  message="進出匝道    請打方向燈"></Info>
+		<Info cmsid="nfbCMS-T68-W-9-M" status="0"  message="進出匝道    請打方向燈"></Info>
+		<Info cmsid="nfbCMS-T68-W-12.1-M" status="0"  message="注意車前動態    保持安全距離"></Info>
+		<Info cmsid="nfbCMS-T68-W-17.2-M" status="0"  message="變換車道請打方向燈"></Info>
+		<Info cmsid="nfbCMS-T68-W-22.5-M" status="0"  message="不超速不逼車"></Info>
+		<Info cmsid="nfbCMS-T68-S-1-L-1" status="0"  message="變換車道請打方向燈"></Info>
+		<Info cmsid="nfbCMS-N5-S-0.185-M" status="0"  message="進入隧道　　開啟大燈收聽警廣"></Info>
+		<Info cmsid="nfbCMS-N5-S-1.049-M" status="0"  message="請適當加速"></Info>
+		<Info cmsid="nfbCMS-N5-S-1.747-M" status="0"  message="請適當加速"></Info>
+		<Info cmsid="nfbCMS-N5-S-2.050-M" status="0"  message="150(圖)請開頭燈收聽警廣"></Info>
+		<Info cmsid="nfbCMS-N5-S-2.409-M" status="0"  message="請適當加速"></Info>
+		<Info cmsid="nfbCMS-N5-S-3.154-M" status="0"  message="請適當加速"></Info>
+		<Info cmsid="nfbCMS-N5-S-4.633-M" status="0"  message="緩升坡路段　請依速限加速"></Info>
+		<Info cmsid="nfbCMS-N5-S-7.440-M" status="0"  message="小型車駕駛及車內乘客請繫上安全帶"></Info>
+		<Info cmsid="nfbCMS-N5-S-9.326-M" status="0"  message="進入隧道　　開啟大燈收聽警廣"></Info>
+		<Info cmsid="nfbCMS-N5-S-9.733-M" status="0"  message="隧道口３KM"></Info>
+		<Info cmsid="nfbCMS-N5-S-10.476-M" status="0"  message="隧道口２KM"></Info>
+		<Info cmsid="nfbCMS-N5-S-10.866-M" status="0"  message="150(圖)請開頭燈收聽警廣"></Info>
+		<Info cmsid="nfbCMS-N5-S-11.523-M" status="0"  message="隧道口１KM"></Info>
+		<Info cmsid="nfbCMS-N5-S-11.916-M" status="0"  message="出隧道　　　測速照相"></Info>
+		<Info cmsid="nfbCMS-N5-S-12.573-M" status="0"  message="請適當加速"></Info>
+		<Info cmsid="nfbCMS-N5-S-13.773-M" status="0"  message="進入坪林水源特定區請共同維護水質"></Info>
+		<Info cmsid="nfbCMS-N5-S-15.139-M" status="0"  message="進入隧道　　開啟大燈收聽警廣"></Info>
+		<Info cmsid="nfbCMS-N5-S-15.841-M" status="0"  message="請適當加速"></Info>
+		<Info cmsid="nfbCMS-N5-S-16.523-M" status="0"  message="請適當加速"></Info>
+		<Info cmsid="nfbCMS-N5-S-16.930-M" status="0"  message="150(圖)請開頭燈收聽警廣"></Info>
+		<Info cmsid="nfbCMS-N5-S-17.227-M" status="0"  message="請適當加速"></Info>
+		<Info cmsid="nfbCMS-N5-S-17.570-M" status="0"  message="隧道內速限  最低七十"></Info>
+		<Info cmsid="nfbCMS-N5-S-17.935-M" status="0"  message="請適當加速"></Info>
+		<Info cmsid="nfbCMS-N5-S-18.338-M" status="0"  message="請保持速限　九十公里"></Info>
+		<Info cmsid="nfbCMS-N5-S-18.641-M" status="0"  message="請適當加速"></Info>
+		<Info cmsid="nfbCMS-N5-S-19.133-M" status="0"  message="行車時請注意前車動態"></Info>
+		<Info cmsid="nfbCMS-N5-S-19.354-M" status="0"  message="請適當加速"></Info>
+		<Info cmsid="nfbCMS-N5-S-19.739-M" status="0"  message="隧道內速限  最低七十"></Info>
+		<Info cmsid="nfbCMS-N5-S-20.043-M" status="0"  message="請適當加速"></Info>
+		<Info cmsid="nfbCMS-N5-S-20.743-M" status="0"  message="請適當加速"></Info>
+		<Info cmsid="nfbCMS-N5-S-21.083-M" status="0"  message="請保持速限  九十公里"></Info>
+		<Info cmsid="nfbCMS-N5-S-21.215-M" status="0"  message="行車時請注意前車動態"></Info>
+		<Info cmsid="nfbCMS-N5-S-21.503-M" status="0"  message="請適當加速"></Info>
+		<Info cmsid="nfbCMS-N5-S-22.145-M" status="0"  message="請適當加速"></Info>
+		<Info cmsid="nfbCMS-N5-S-22.532-M" status="0"  message="隧道內速限  最低七十"></Info>
+		<Info cmsid="nfbCMS-N5-S-22.812-M" status="0"  message="請適當加速"></Info>
+		<Info cmsid="nfbCMS-N5-S-23.029-M" status="0"  message="請保持速限  九十公里"></Info>
+		<Info cmsid="nfbCMS-N5-S-23.538-M" status="0"  message="請適當加速"></Info>
+		<Info cmsid="nfbCMS-N5-S-23.935-M" status="0"  message="行車時請注意前車動態"></Info>
+		<Info cmsid="nfbCMS-N5-S-24.238-M" status="0"  message="請適當加速"></Info>
+		<Info cmsid="nfbCMS-N5-S-24.661-M" status="0"  message="隧道內速限  最低七十"></Info>
+		<Info cmsid="nfbCMS-N5-S-24.953-M" status="0"  message="請適當加速"></Info>
+		<Info cmsid="nfbCMS-N5-S-25.337-M" status="0"  message="請保持速限  九十公里"></Info>
+		<Info cmsid="nfbCMS-N5-S-25.646-M" status="0"  message="請適當加速"></Info>
+		<Info cmsid="nfbCMS-N5-S-26.283-M" status="0"  message="請適當加速"></Info>
+		<Info cmsid="nfbCMS-N5-S-26.407-M" status="0"  message="行車時請注意前車動態"></Info>
+		<Info cmsid="nfbCMS-N5-S-26.731-M" status="0"  message="隧道內速限  最低七十"></Info>
+		<Info cmsid="nfbCMS-N5-S-27.033-M" status="0"  message="請適當加速"></Info>
+		<Info cmsid="nfbCMS-N5-S-27.726-M" status="0"  message="請適當加速"></Info>
+		<Info cmsid="nfbCMS-N5-S-28.718-M" status="0"  message="小型車駕駛及車內乘客請繫上安全帶"></Info>
+		<Info cmsid="nfbCMS-N5-S-35.078-M" status="0"  message="內側車道為超車道限小型車最高速限行駛"></Info>
+		<Info cmsid="nfbCMS-N5-S-38.000-L-宜蘭-191甲" status="0"  message="國５每星期日15－20時　　北上高乘載"></Info>
+		<Info cmsid="nfbCMS-N5-S-44.432-M" status="0"  message="國５每星期日15－20時　　北上高乘載"></Info>
+		<Info cmsid="nfbCMS-N5-S-46.000-L-羅東-191甲" status="0"  message="珍惜生命   酒後不開車  疲勞勿駕駛"></Info>
+		<Info cmsid="nfbCMS-N5-S-53.245-M" status="0"  message="查詢省道請撥公路總局專線 0800231035"></Info>
+		<Info cmsid="nfbCMS-N5-N-1.440-M" status="0"  message="請適當加速"></Info>
+		<Info cmsid="nfbCMS-N5-N-2.068-M" status="0"  message="出南港隧道　速限降低"></Info>
+		<Info cmsid="nfbCMS-N5-N-2.481-M" status="0"  message="請適當加速"></Info>
+		<Info cmsid="nfbCMS-N5-N-3.210-M" status="0"  message="請適當加速"></Info>
+		<Info cmsid="nfbCMS-N5-N-5.523-M" status="0"  message="多事故路段請注意前車動態小心駕駛"></Info>
+		<Info cmsid="nfbCMS-N5-N-8.028-M" status="0"  message="行車前檢查輪胎    上車免爆胎"></Info>
+		<Info cmsid="nfbCMS-N5-N-9.823-M" status="0"  message="請適當加速"></Info>
+		<Info cmsid="nfbCMS-N5-N-10.506-M" status="0"  message="請適當加速"></Info>
+		<Info cmsid="nfbCMS-N5-N-10.843-M" status="0"  message="已通知救援  請耐心等候"></Info>
+		<Info cmsid="nfbCMS-N5-N-11.233-M" status="0"  message="請適當加速"></Info>
+		<Info cmsid="nfbCMS-N5-N-11.873-M" status="0"  message="150(圖)請開頭燈收聽警廣"></Info>
+		<Info cmsid="nfbCMS-N5-N-12.245-M" status="0"  message="請適當加速"></Info>
+		<Info cmsid="nfbCMS-N5-N-12.922-M" status="0"  message="請適當加速"></Info>
+		<Info cmsid="nfbCMS-N5-N-13.348-M" status="0"  message="進入隧道請在速限範圍保持較高車速"></Info>
+		<Info cmsid="nfbCMS-N5-N-15.212-M" status="0"  message="請適當加速"></Info>
+		<Info cmsid="nfbCMS-N5-N-15.885-M" status="0"  message="請適當加速"></Info>
+		<Info cmsid="nfbCMS-N5-N-16.577-M" status="0"  message="請適當加速"></Info>
+		<Info cmsid="nfbCMS-N5-N-16.880-M" status="0"  message="出隧道後    請依速限行駛"></Info>
+		<Info cmsid="nfbCMS-N5-N-17.288-M" status="0"  message="請適當加速"></Info>
+		<Info cmsid="nfbCMS-N5-N-17.459-M" status="0"  message="153(圖)注意車速以免塞車"></Info>
+		<Info cmsid="nfbCMS-N5-N-17.990-M" status="0"  message="請適當加速"></Info>
+		<Info cmsid="nfbCMS-N5-N-18.273-M" status="0"  message="153(圖)注意車速以免塞車"></Info>
+		<Info cmsid="nfbCMS-N5-N-18.677-M" status="0"  message="請適當加速"></Info>
+		<Info cmsid="nfbCMS-N5-N-19.100-M" status="0"  message="153(圖)注意車速以免塞車"></Info>
+		<Info cmsid="nfbCMS-N5-N-19.390-M" status="0"  message="請適當加速"></Info>
+		<Info cmsid="nfbCMS-N5-N-19.672-M" status="0"  message="153(圖)注意車速以免塞車"></Info>
+		<Info cmsid="nfbCMS-N5-N-20.088-M" status="0"  message="請適當加速"></Info>
+		<Info cmsid="nfbCMS-N5-N-20.787-M" status="0"  message="請適當加速"></Info>
+		<Info cmsid="nfbCMS-N5-N-21.024-M" status="0"  message="153(圖)注意車速以免塞車"></Info>
+		<Info cmsid="nfbCMS-N5-N-21.100-M" status="0"  message="153(圖)注意車速以免塞車"></Info>
+		<Info cmsid="nfbCMS-N5-N-21.479-M" status="0"  message="請適當加速"></Info>
+		<Info cmsid="nfbCMS-N5-N-22.179-M" status="0"  message="請適當加速"></Info>
+		<Info cmsid="nfbCMS-N5-N-22.478-M" status="0"  message="153(圖)注意車速以免塞車"></Info>
+		<Info cmsid="nfbCMS-N5-N-22.938-M" status="0"  message="153(圖)注意車速以免塞車"></Info>
+		<Info cmsid="nfbCMS-N5-N-23.583-M" status="0"  message="請適當加速"></Info>
+		<Info cmsid="nfbCMS-N5-N-23.876-M" status="0"  message="153(圖)注意車速以免塞車"></Info>
+		<Info cmsid="nfbCMS-N5-N-24.286-M" status="0"  message="請適當加速"></Info>
+		<Info cmsid="nfbCMS-N5-N-24.548-M" status="0"  message="153(圖)注意車速以免塞車"></Info>
+		<Info cmsid="nfbCMS-N5-N-24.985-M" status="0"  message="請適當加速"></Info>
+		<Info cmsid="nfbCMS-N5-N-25.272-M" status="0"  message="153(圖)注意車速以免塞車"></Info>
+		<Info cmsid="nfbCMS-N5-N-25.687-M" status="0"  message="請適當加速"></Info>
+		<Info cmsid="nfbCMS-N5-N-26.317-M" status="0"  message="153(圖)注意車速以免塞車"></Info>
+		<Info cmsid="nfbCMS-N5-N-26.530-M" status="0"  message="請適當加速"></Info>
+		<Info cmsid="nfbCMS-N5-N-26.680-M" status="0"  message="150(圖)請開頭燈收聽警廣"></Info>
+		<Info cmsid="nfbCMS-N5-N-27.080-M" status="0"  message="請適當加速"></Info>
+		<Info cmsid="nfbCMS-N5-N-27.801-M" status="0"  message="請適當加速"></Info>
+		<Info cmsid="nfbCMS-N5-N-28.404-M" status="0"  message="進入隧道請在速限範圍保持較高車速"></Info>
+		<Info cmsid="nfbCMS-N5-N-31.180-M" status="0"  message="國５每星期日15－20時　　北上高乘載"></Info>
+		<Info cmsid="nfbCMS-N5-N-42.224-M" status="0"  message="國５每星期日15－20時　　北上高乘載"></Info>
+		<Info cmsid="nfbCMS-N5-N-48.845-M" status="0"  message="爆胎時　 放鬆油門緊握方向盤靠邊滑"></Info>
+		<Info cmsid="nfbCMS-N5-T-4.000-I-石碇-106北" status="0"  message="前後座駕駛  及乘客均應　繫安全帶"></Info>
+		<Info cmsid="nfbCMS-N5-T-4.000-L-石碇-106乙" status="0"  message="上高速公路前請先檢查愛車檢視引擎溫度"></Info>
+		<Info cmsid="nfbCMS-N5-T-4.000-L-石碇-106南" status="0"  message="行前檢查車輛 油、水、電　注意車溫"></Info>
+		<Info cmsid="nfbCMS-N5-T-30.000-I-頭城-匝道" status="0"  message="上高速公路前請先檢查愛車檢視引擎溫度"></Info>
+		<Info cmsid="nfbCMS-N5-N-30.000-L-頭城-台2庚-2.5" status="0"  message="查詢省道請撥公路總局專線 0800231035"></Info>
+		<Info cmsid="nfbCMS-N5-N-30.000-L-頭城-台9-礁溪-5" status="0"  message="上高速公路前請先檢查愛車檢視引擎溫度"></Info>
+		<Info cmsid="nfbCMS-N5-N-38.000-L-宜蘭-台7" status="0"  message="上高速公路前請先檢查愛車檢視引擎溫度"></Info>
+		<Info cmsid="nfbCMS-N5-N-38.000-L-宜蘭-191甲" status="0"  message="誤闖高速公路請靠邊停　　並通報1968"></Info>
+		<Info cmsid="nfbCMS-N5-N-38.000-L-宜蘭-縣民大道" status="0"  message="國５每星期日15－20時　　北上高乘載"></Info>
+		<Info cmsid="nfbCMS-N5-N-38.000-L-宜蘭-191甲-1.5" status="0"  message="國５每星期日15－20時　　北上高乘載"></Info>
+		<Info cmsid="nfbCMS-N5-N-46.000-L-羅東-191甲" status="0"  message="上高速公路前請先檢查愛車檢視引擎溫度"></Info>
+		<Info cmsid="nfbCMS-N5-N-46.000-L-羅東-191甲-1.5" status="0"  message="行前注意胎紋胎壓"></Info>
+		<Info cmsid="nfbCMS-N5-N-46.000-L-羅東-傳藝路右側" status="0"  message="誤闖高速公路  請靠邊停　 並通報1968"></Info>
+		<Info cmsid="nfbCMS-N5-N-46.000-L-羅東-傳藝路左側" status="0"  message="行前檢查車輛 油、水、電 　注意車溫"></Info>
+		<Info cmsid="nfbCMS-N5-N-54.000-L-蘇澳-海山西路" status="0"  message="公路總局　　用路人服務專線0800231035"></Info>
+		<Info cmsid="nfbCMS-N5-N-54.000-L-蘇澳-馬賽路右側" status="0"  message="上高速公路前請先檢查愛車檢視引擎溫度"></Info>
+		<Info cmsid="nfbCMS-N5-N-54.000-L-蘇澳-馬賽路左側" status="0"  message="國５每星期日15－20時　　北上高乘載"></Info>
+		<Info cmsid="nfbCMS-N1-L-250-W-1" status="0"  message="嚴禁酒後駕車不併行不競駛確保行車安全"></Info>
+		<Info cmsid="nfbCMS-N3-N-252.044-M" status="0"  message="行車請繫安全帶高公局祝您平安"></Info>
+		<Info cmsid="nfbCMS-N1-N-247.600-M" status="0"  message="行車請繫安全帶高公局祝您平安"></Info>
+		<Info cmsid="nfbCMS-T74-E-4-L-SE-1-環中路" status="0"  message="違規使用遠光燈罰三千至六千"></Info>
+		<Info cmsid="nfbCMS-T74-E-10.086-M" status="0"  message="保持車距請勿超速"></Info>
+		<Info cmsid="nfbCMS-N3-N-159.490-M" status="0"  message="至後龍　約16分至竹南　約22分"></Info>
+		<Info cmsid="nfbCMS-T78-W-16.695-M" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-T74-E-7-L-WE-1-五權西路" status="0"  message="保持車距請勿超速"></Info>
+		<Info cmsid="nfbCMS-N1-N-161.572-M" status="0"  message="行車請繫安全帶高公局祝您平安"></Info>
+		<Info cmsid="nfbCMS-T78-W-2.836-M" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-N3-N-218.231-M" status="0"  message="至快官　約10分至和美　約16分"></Info>
+		<Info cmsid="nfbCMS-N3-N-124-L-EN-1-北上入口-造橋" status="0"  message="酒駕害人害己別再心存僥倖交通部提醒您"></Info>
+		<Info cmsid="nfbCMS-N3-N-228.912-M" status="0"  message="變換車道前請打方向燈"></Info>
+		<Info cmsid="nfbCMS-N1-S-110-L-WS-1-南下入口-頭份" status="0"  message="嚴懲重大違規闖紅燈嚴重超速、酒後駕車"></Info>
+		<Info cmsid="nfbCMS-N3-S-247.853-M" status="0"  message="行車請繫安全帶高公局祝您平安"></Info>
+		<Info cmsid="nfbCMS-N1-S-168-L-WS-1-南下入口-豐原" status="0"  message="變換車道 請打方向燈"></Info>
+		<Info cmsid="nfbCMS-N6-E-17-L-NE-1-台14線" status="0"  message="西行21~17K內側車道施工"></Info>
+		<Info cmsid="nfbCMS-N3-S-134-R-2" status="0"  message="前後座未繫安全帶罰3仟-6仟元"></Info>
+		<Info cmsid="nfbCMS-N3-N-192.907-M" status="0"  message="至沙鹿　約10分至大甲　約16分"></Info>
+		<Info cmsid="nfbCMS-T74-W-29.407-M" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-N1-L-230-W-1" status="0"  message="嚴禁酒後駕車不併行不競駛確保行車安全"></Info>
+		<Info cmsid="nfbCMS-T72-W-17.495-M" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-T74-W-21.056-M" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-T78-E-20.746-M" status="0"  message="26K外側車道散落物"></Info>
+		<Info cmsid="nfbCMS-N3-N-130-L-EN-1-北上入口-苗栗" status="0"  message="酒駕害人害己別再心存僥倖交通部提醒您"></Info>
+		<Info cmsid="nfbCMS-N1-N-158-R-1" status="0"  message="開車不當低頭族 手機電腦勿使用"></Info>
+		<Info cmsid="nfbCMS-N1-S-180.170-M" status="0"  message="至台中市環中路口經南屯出口約 4分"></Info>
+		<Info cmsid="nfbCMS-N1-S-198-L-WS-1-南下入口-秀水" status="0"  message="嚴懲重大違規闖紅燈嚴重超速、酒後駕車"></Info>
+		<Info cmsid="nfbCMS-T72-E-4.654-M" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-N3-N-235.292-M" status="0"  message="至草屯　約10分至烏日　約16分"></Info>
+		<Info cmsid="nfbCMS-T74-E-6.007-M" status="0"  message="保持車距請勿超速"></Info>
+		<Info cmsid="nfbCMS-N3-S-202-L-WS-1-南下入口-快官" status="0"  message="酒駕害人害己別再心存僥倖交通部提醒您"></Info>
+		<Info cmsid="nfbCMS-N6-E-29-L-NE-1-台14線" status="0"  message="西行21~17K內側車道施工"></Info>
+		<Info cmsid="nfbCMS-T74-E-11.577-M" status="0"  message="開車低頭危險招手"></Info>
+		<Info cmsid="nfbCMS-N1-S-239.450-M" status="0"  message="行車請繫安全帶高公局祝您平安"></Info>
+		<Info cmsid="nfbCMS-N4-E-14-L-SE-1-東向入口-豐原" status="0"  message="酒駕害人害己別再心存僥倖交通部提醒您"></Info>
+		<Info cmsid="nfbCMS-N6-E-2.8-L-舊正" status="0"  message="請勿超速行駛注意前車狀態保持安全車距"></Info>
+		<Info cmsid="nfbCMS-N1-S-110-L-WS-1-南下入口-新竹" status="0"  message="嚴懲重大違規闖紅燈嚴重超速、酒後駕車"></Info>
+		<Info cmsid="nfbCMS-N1-S-233.000-M" status="0"  message="行車請繫安全帶高公局祝您平安"></Info>
+		<Info cmsid="nfbCMS-N3-S-242.818-M" status="0"  message="至斗六　約10分至梅山　約21分"></Info>
+		<Info cmsid="nfbCMS-N3-S-164-L-WS-1-南下入口-大甲" status="0"  message="酒駕害人害己別再心存僥倖交通部提醒您"></Info>
+		<Info cmsid="nfbCMS-N3-S-123.573-M" status="0"  message="至通霄　約12分至大甲　約23分"></Info>
+		<Info cmsid="nfbCMS-T74-W-12.4-M" status="0"  message="保持車距請勿超速"></Info>
+		<Info cmsid="nfbCMS-T78-W-33.993-M" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-T76-W-20.180-M" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-N6-E-26.910-M" status="0"  message="天候不佳請開頭燈拉長車距減速慢行"></Info>
+		<Info cmsid="nfbCMS-N6-E-29.049-M" status="0"  message="酒後開車多風險指定駕駛最保險"></Info>
+		<Info cmsid="nfbCMS-N1-N-110-L-EN-1-北上入口-三灣" status="0"  message="開車不當低頭族手機電腦勿使用"></Info>
+		<Info cmsid="nfbCMS-N3-N-119-L-EN-1-北上入口-竹南" status="0"  message="酒駕害人害己別再心存僥倖交通部提醒您"></Info>
+		<Info cmsid="nfbCMS-T74-W-31.827-M" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-T74-E-11.625-M" status="0"  message="開車低頭危險招手"></Info>
+		<Info cmsid="nfbCMS-N6-E-25-L-WE-1-台14線" status="0"  message="請勿超速行駛注意前車狀態保持安全車距"></Info>
+		<Info cmsid="nfbCMS-N3-N-177.280-M" status="0"  message="至大甲　約 8分至通霄　約19分"></Info>
+		<Info cmsid="nfbCMS-T74-E-20.230-M" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-T72-E-25.743-M" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-T72-W-22.262-M" status="0"  message="至造橋　約11分至後龍端　約14分"></Info>
+		<Info cmsid="nfbCMS-N3-N-144-L-EN-1-北上入口-通霄" status="0"  message="酒駕害人害己別再心存僥倖交通部提醒您"></Info>
+		<Info cmsid="nfbCMS-N1-S-137.945-M" status="0"  message="天候不佳請開頭燈拉長車距減速慢行"></Info>
+		<Info cmsid="nfbCMS-T74-W-14-L-EW-1-中清路" status="0"  message="保持車距請勿超速"></Info>
+		<Info cmsid="nfbCMS-N3-S-114.450-M" status="0"  message="至後龍　約 9分至通霄　約17分"></Info>
+		<Info cmsid="nfbCMS-T74-W-16-L-EW-1-崇德路" status="0"  message="保持車距請勿超速"></Info>
+		<Info cmsid="nfbCMS-N3-N-209-L-EN-1-北上入口-台中" status="0"  message="酒駕害人害己別再心存僥倖交通部提醒您"></Info>
+		<Info cmsid="nfbCMS-T74-E-5.839-M" status="0"  message="開車低頭危險招手"></Info>
+		<Info cmsid="nfbCMS-N1-S-198-L-WS-1-南下入口-鹿港" status="0"  message="嚴懲重大違規闖紅燈嚴重超速、酒後駕車"></Info>
+		<Info cmsid="nfbCMS-T74-W-30-L-SN-1-元堤路" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-T74-E-1-L-SE-1-環河路三段" status="0"  message="開車不當低頭族手機電腦勿使用"></Info>
+		<Info cmsid="nfbCMS-N4-E-10.520-M" status="0"  message="行車切勿疲勞駕駛養足精神一路平安"></Info>
+		<Info cmsid="nfbCMS-N3-N-244.842-M" status="0"  message="至南投　約11分至草屯　約15分"></Info>
+		<Info cmsid="nfbCMS-T74-W-1-L-NW-1-環河路三段" status="0"  message="嚴禁主線車輛利用加、減速車道超車"></Info>
+		<Info cmsid="nfbCMS-N1-S-178-L-WS-1-南下入口-沙鹿" status="0"  message="預計進入北上交流道約 2分鐘"></Info>
+		<Info cmsid="nfbCMS-T78-E-0-L-SE-1 東行入口-台61線" status="0"  message="行駛匝道請依速限並保持安全車距"></Info>
+		<Info cmsid="nfbCMS-N1-N-179.770-M" status="0"  message="天候不佳請開頭燈拉長車距減速慢行"></Info>
+		<Info cmsid="nfbCMS-N3-T-260-L-WS-1-南下入口-斗六" status="0"  message="請勿超速行駛請勿任意超車請勿疲勞駕駛"></Info>
+		<Info cmsid="nfbCMS-N3-S-133.853-M" status="0"  message="至大甲　約18分至沙鹿　約24分"></Info>
+		<Info cmsid="nfbCMS-N1-S-189-L-WS-1-南下入口-大肚" status="0"  message="北上189~186K外側車道施工"></Info>
+		<Info cmsid="nfbCMS-T72-W-10.995-M" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-N3-S-207-L-WS-1-南下入口-烏日" status="0"  message="酒駕害人害己別再心存僥倖交通部提醒您"></Info>
+		<Info cmsid="nfbCMS-N1-N-238.345-M" status="0"  message="行車請繫安全帶高公局祝您平安"></Info>
+		<Info cmsid="nfbCMS-T78-E-41.517-M" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-N1-L-219-E-2" status="0"  message="嚴禁酒後駕車不併行不競駛確保行車安全"></Info>
+		<Info cmsid="nfbCMS-T72-E-22.105-M" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-T74-W-4-L-SW-1-高鐵東路" status="0"  message="保持車距請勿超速"></Info>
+		<Info cmsid="nfbCMS-N1-S-173.070-M" status="0"  message="天候不佳請開頭燈拉長車距減速慢行"></Info>
+		<Info cmsid="nfbCMS-N3-S-236.160-M" status="0"  message="至斗六　約13分至梅山　約24分"></Info>
+		<Info cmsid="nfbCMS-T74-W-12.482-M" status="0"  message="保持車距請勿超速"></Info>
+		<Info cmsid="nfbCMS-N3-S-226.580-M" status="0"  message="行車請繫安全帶高公局祝您平安"></Info>
+		<Info cmsid="nfbCMS-N3-N-164-L-EN-1-北上入口-外埔" status="0"  message="酒駕害人害己別再心存僥倖交通部提醒您"></Info>
+		<Info cmsid="nfbCMS-T72-W-13.416-M" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-N3-N-134.5-R" status="0"  message="前後座未繫安全帶罰3仟-6仟元"></Info>
+		<Info cmsid="nfbCMS-N1-N-163.390-M" status="0"  message="天候不佳請開頭燈拉長車距減速慢行"></Info>
+		<Info cmsid="nfbCMS-N1-N-233.390-M" status="0"  message="行車請繫安全帶高公局祝您平安"></Info>
+		<Info cmsid="nfbCMS-N1-S-173-L-WS-1-南下入口-大雅" status="0"  message="預計進入北上交流道約 2分鐘"></Info>
+		<Info cmsid="nfbCMS-N3-S-200.017-M" status="0"  message="至草屯　約10分至南投　約16分"></Info>
+		<Info cmsid="nfbCMS-N1-N-175.600-M" status="0"  message="至台中市環中路口經大雅出口約 3分"></Info>
+		<Info cmsid="nfbCMS-N1-S-187.850-M" status="0"  message="至員林　約14分至西螺　約26分"></Info>
+		<Info cmsid="nfbCMS-N3-S-175.001-M" status="0"  message="行車請繫安全帶高公局祝您平安"></Info>
+		<Info cmsid="nfbCMS-T78-E-13.780-M" status="0"  message="至雲林系統約11分"></Info>
+		<Info cmsid="nfbCMS-N1-N-219.050-M" status="0"  message="至彰化　約13分至台中　約25分"></Info>
+		<Info cmsid="nfbCMS-T74-E-24-L-NS-1-太原路" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-T76-W-12.585-M" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-N3-S-119-L-WS-1-南下入口-竹南" status="0"  message="酒駕害人害己別再心存僥倖交通部提醒您"></Info>
+		<Info cmsid="nfbCMS-T78-W-41.621-M" status="0"  message="至雲林系統約 7分"></Info>
+		<Info cmsid="nfbCMS-N1-N-142.280-M" status="0"  message="天候不佳請開頭燈拉長車距減速慢行"></Info>
+		<Info cmsid="nfbCMS-N3-N-228-L-WS-1-北上入口-中興" status="0"  message="酒駕害人害己別再心存僥倖交通部提醒您"></Info>
+		<Info cmsid="nfbCMS-T78-W-23.787-M" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-N3-S-213.352-M" status="0"  message="行車請繫安全帶高公局祝您平安"></Info>
+		<Info cmsid="nfbCMS-N1-S-158-R-2" status="0"  message="身體狀況不佳請勿勉強上路"></Info>
+		<Info cmsid="nfbCMS-T74-W-10-L-EW-1-西屯路" status="0"  message="開車低頭危險招手"></Info>
+		<Info cmsid="nfbCMS-N3-S-206.187-M" status="0"  message="至南投　約13分至名間　約18分"></Info>
+		<Info cmsid="nfbCMS-N3-N-210.344-M" status="0"  message="至和美　約11分至沙鹿　約20分"></Info>
+		<Info cmsid="nfbCMS-T78-W-27.105-M" status="0"  message="至元長　約 9分至台西　約19分"></Info>
+		<Info cmsid="nfbCMS-N6-W-20.723-M" status="0"  message="天候不佳請開頭燈拉長車距減速慢行"></Info>
+		<Info cmsid="nfbCMS-T72-W-8.250-M" status="0"  message="身體狀況不佳請勿勉強上路"></Info>
+		<Info cmsid="nfbCMS-T78-E-31.700-M" status="0"  message="至古坑　約 6分至古坑系統約 9分"></Info>
+		<Info cmsid="nfbCMS-N3-N-225.555-M" status="0"  message="至烏日　約10分至快官　約13分"></Info>
+		<Info cmsid="nfbCMS-N1-N-236-L-EN-1-北上入口-斗六" status="0"  message="嚴懲重大違規闖紅燈嚴重超速、酒後駕車"></Info>
+		<Info cmsid="nfbCMS-N3-S-190.305-M" status="0"  message="至烏日　約10分至草屯　約15分"></Info>
+		<Info cmsid="nfbCMS-T78-W-0.485-M" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-T74-W-9.680-M" status="0"  message="保持車距請勿超速"></Info>
+		<Info cmsid="nfbCMS-N6-E-2-L-SE-1-東向入口-舊正" status="0"  message="嚴懲重大違規闖紅燈嚴重超速、酒後駕車"></Info>
+		<Info cmsid="nfbCMS-T72-E-31-L-SE-1" status="0"  message="開車低頭危險招手"></Info>
+		<Info cmsid="nfbCMS-N6-E-27.883-M-埔里隧道" status="0"  message="保持距離以策安全"></Info>
+		<Info cmsid="nfbCMS-N3-S-237-L-WS-1-南下入口-竹山" status="0"  message="預計進入北上交流道約 2分鐘"></Info>
+		<Info cmsid="nfbCMS-N3-N-176-L-EN-1-北上入口-大雅" status="0"  message="酒駕害人害己別再心存僥倖交通部提醒您"></Info>
+		<Info cmsid="nfbCMS-N1-S-197.200-M" status="0"  message="天候不佳請開頭燈拉長車距減速慢行"></Info>
+		<Info cmsid="nfbCMS-N1-N-111.450-M" status="0"  message="至新竹系統約 7分至湖口　約18分"></Info>
+		<Info cmsid="nfbCMS-T74-W-7-L-EW-1-五權西路" status="0"  message="保持車距請勿超速"></Info>
+		<Info cmsid="nfbCMS-N3-S-118.080-M" status="0"  message="至後龍　約 7分至通霄　約14分"></Info>
+		<Info cmsid="nfbCMS-T74-W-24-L-SN-1-太原路" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-N1-S-228.790-M" status="0"  message="至大林　約14分至嘉義　約21分"></Info>
+		<Info cmsid="nfbCMS-T74-E-7.101-M" status="0"  message="保持車距請勿超速"></Info>
+		<Info cmsid="nfbCMS-N4-W-3.384-M" status="0"  message="行車切勿疲勞駕駛養足精神一路平安"></Info>
+		<Info cmsid="nfbCMS-N1-N-125-L-SN-1-北上入口-頭屋" status="0"  message="進出匝道   請打方向燈"></Info>
+		<Info cmsid="nfbCMS-N3-N-134.6-R" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-N1-N-168-L-EN-1-北上入口-豐原" status="0"  message="嚴懲重大違規闖紅燈嚴重超速、酒後駕車"></Info>
+		<Info cmsid="nfbCMS-T74-W-8.507-M" status="0"  message="保持車距請勿超速"></Info>
+		<Info cmsid="nfbCMS-N3-N-189-L-WS-1-北上入口-伸港" status="0"  message="酒駕害人害己別再心存僥倖交通部提醒您"></Info>
+		<Info cmsid="nfbCMS-N3-N-211-L-EN-1-北上入口-霧峰" status="0"  message="酒駕害人害己別再心存僥倖交通部提醒您"></Info>
+		<Info cmsid="nfbCMS-N3-N-123.803-M" status="0"  message="行車請繫安全帶高公局祝您平安"></Info>
+		<Info cmsid="nfbCMS-T74-E-8.750-N" status="0"  message="保持車距請勿超速"></Info>
+		<Info cmsid="nfbCMS-N3-S-210.254-M" status="0"  message="保持車距請勿超速"></Info>
+		<Info cmsid="nfbCMS-N3-N-260-L-EN-1-北上入口-林內" status="0"  message="酒駕害人害己別再心存僥倖交通部提醒您"></Info>
+		<Info cmsid="nfbCMS-T74-E-30.006-M" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-T78-E-6.480-M" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-T74-E-4-L-NE-1-環中路" status="0"  message="違規使用遠光燈罰三千至六千"></Info>
+		<Info cmsid="nfbCMS-N1-L-250-E-2" status="0"  message="嚴禁酒後駕車確保行車安全"></Info>
+		<Info cmsid="nfbCMS-N3-S-157.800-M" status="0"  message="酒駕害人害己別再心存僥倖交通部提醒您"></Info>
+		<Info cmsid="nfbCMS-N1-N-188-L-EN-1-北上入口-烏日" status="0"  message="北上189~186K外側車道施工"></Info>
+		<Info cmsid="nfbCMS-T74-W-1.150-M" status="0"  message="保持車距請勿超速"></Info>
+		<Info cmsid="nfbCMS-T72-E-18.500-M" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-T74-E-7.164-M" status="0"  message="開車低頭危險招手"></Info>
+		<Info cmsid="nfbCMS-N6-W-37-L-SW-1-台14線" status="0"  message="酒後開車多風險指定駕駛最保險"></Info>
+		<Info cmsid="nfbCMS-T74-W-26-L-SN-1-中山路" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-N3-S-215.991-M" status="0"  message="行車請繫安全帶高公局祝您平安"></Info>
+		<Info cmsid="nfbCMS-N1-S-149.120-M" status="0"  message="天候不佳請開頭燈拉長車距減速慢行"></Info>
+		<Info cmsid="nfbCMS-N1-S-160-L-WS-3-南下入口-外埔" status="0"  message="嚴懲重大違規闖紅燈嚴重超速、酒後駕車"></Info>
+		<Info cmsid="nfbCMS-T74-W-4-L-NW-1-高鐵路三段" status="0"  message="開車低頭危險招手"></Info>
+		<Info cmsid="nfbCMS-N4-E-8.050-M" status="0"  message="行車切勿疲勞駕駛養足精神一路平安"></Info>
+		<Info cmsid="nfbCMS-N1-S-131.900-M" status="0"  message="天候不佳請開頭燈拉長車距減速慢行"></Info>
+		<Info cmsid="nfbCMS-N3-N-224-L-EN-1-北上入口-中興新村" status="0"  message="酒駕害人害己別再心存僥倖交通部提醒您"></Info>
+		<Info cmsid="nfbCMS-N1-S-177.470-M" status="0"  message="至彰化　約13分至員林　約20分"></Info>
+		<Info cmsid="nfbCMS-N4-W-1-L-NW-1-西向入口-大甲" status="0"  message="酒駕害人害己別再心存僥倖交通部提醒您"></Info>
+		<Info cmsid="nfbCMS-N1-N-126.700-M" status="0"  message="行車請繫安全帶高公局祝您平安"></Info>
+		<Info cmsid="nfbCMS-N3-S-191-L-WS-1-南下入口-和美" status="0"  message=""></Info>
+		<Info cmsid="nfbCMS-N3-N-170-R-2" status="0"  message="勿疲勞駕車開車勿分心"></Info>
+		<Info cmsid="nfbCMS-N3-S-210.210-M" status="0"  message="至名間　約15分至竹山　約19分"></Info>
+		<Info cmsid="nfbCMS-N3-N-170-R-1" status="0"  message="勿超載勿超速行駛"></Info>
+		<Info cmsid="nfbCMS-N1-L-211-W-1" status="0"  message="嚴禁酒後駕車不併行不競駛確保行車安全"></Info>
+		<Info cmsid="nfbCMS-N1-S-109.249-M" status="0"  message="至苗栗　約14分至三義　約26分"></Info>
+		<Info cmsid="nfbCMS-N3-S-223.502-M" status="0"  message="至竹山　約12分至斗六　約21分"></Info>
+		<Info cmsid="nfbCMS-N3-S-233.607-M" status="0"  message="至竹山　約 7分至斗六　約15分"></Info>
+		<Info cmsid="nfbCMS-N6-E-05-L-NE-1-東草屯" status="0"  message="變換車道 請打方向燈"></Info>
+		<Info cmsid="nfbCMS-T74-W-10-L-EW-1-青海路" status="0"  message="保持車距請勿超速"></Info>
+		<Info cmsid="nfbCMS-N3-N-268-I-WN-1-北上入口-149甲線道" status="0"  message="保持車距勿超速"></Info>
+		<Info cmsid="nfbCMS-T74-E-18.482-M" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-N3-N-207-L-EN-1-北上入口-台中" status="0"  message="酒駕害人害己別再心存僥倖交通部提醒您"></Info>
+		<Info cmsid="nfbCMS-N1-S-217.300-M" status="0"  message="至西螺　約 8分至斗南　約14分"></Info>
+		<Info cmsid="nfbCMS-N3-N-215.084-M" status="0"  message="行車請繫安全帶高公局祝您平安"></Info>
+		<Info cmsid="nfbCMS-N1-S-116.700-M" status="0"  message="至三義　約20分"></Info>
+		<Info cmsid="nfbCMS-N3-S-144-L-WS-1-南下入口-通霄" status="0"  message="酒駕害人害己別再心存僥倖交通部提醒您"></Info>
+		<Info cmsid="nfbCMS-N1-S-158.090-M" status="0"  message="行車請繫安全帶高公局祝您平安"></Info>
+		<Info cmsid="nfbCMS-N3-S-134-R-3" status="0"  message="未繳通行費罰300元並移送強制執行"></Info>
+		<Info cmsid="nfbCMS-N3-N-232.671-M" status="0"  message="行車請繫安全帶高公局祝您平安"></Info>
+		<Info cmsid="nfbCMS-N1-L-211-E-2" status="0"  message="嚴禁酒後駕車不併行不競駛確保行車安全"></Info>
+		<Info cmsid="nfbCMS-N3-S-259.115-M" status="0"  message="至古坑系統約 6分至梅山　約11分"></Info>
+		<Info cmsid="nfbCMS-T74-E-10-L-WE-1-朝馬路" status="0"  message="開車低頭危險招手"></Info>
+		<Info cmsid="nfbCMS-N3-S-134-R-1" status="0"  message="未繳通行費罰300元並移送強制執行"></Info>
+		<Info cmsid="nfbCMS-N1-N-178-L-EN-1-北上入口-台中" status="0"  message="預計進入北上交流道約 3分鐘"></Info>
+		<Info cmsid="nfbCMS-T74-E-2.650-M" status="0"  message="保持車距請勿超速"></Info>
+		<Info cmsid="nfbCMS-N6-W-5.600-M" status="0"  message="酒後開車多風險指定駕駛最保險"></Info>
+		<Info cmsid="nfbCMS-T78-W-31.747-M" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-T72-W-28.845-M" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-T74-W-1-L-NW-1-高鐵東路" status="0"  message="請勿超速行駛注意前車狀態保持安全車距"></Info>
+		<Info cmsid="nfbCMS-T72-E-29-I-SE-1" status="0"  message="開車低頭危險招手"></Info>
+		<Info cmsid="nfbCMS-N6-W-25.553-M" status="0"  message="天候不佳請開頭燈拉長車距減速慢行"></Info>
+		<Info cmsid="nfbCMS-N1-N-132-L-EN-1-北上入口-公館" status="0"  message="嚴懲重大違規闖紅燈嚴重超速、酒後駕車"></Info>
+		<Info cmsid="nfbCMS-N6-W-34-L-NW-1-台21線" status="0"  message="西行21~17K內側車道施工"></Info>
+		<Info cmsid="nfbCMS-N1-N-190.695-M" status="0"  message="188.6~186.9K外側車道施工"></Info>
+		<Info cmsid="nfbCMS-N4-W-10.052-M" status="0"  message="行車切勿疲勞駕駛養足精神一路平安"></Info>
+		<Info cmsid="nfbCMS-N1-N-212.050-M" status="0"  message="行車請繫安全帶高公局祝您平安"></Info>
+		<Info cmsid="nfbCMS-T78-W-0-L-NE-1  東行入口-台61線" status="0"  message="行駛匝道請依速限並保持安全車距"></Info>
+		<Info cmsid="nfbCMS-T76-E-17.950-M" status="0"  message="至中興系統約11分"></Info>
+		<Info cmsid="nfbCMS-N1-N-199.720-M" status="0"  message="天候不佳請開頭燈拉長車距減速慢行"></Info>
+		<Info cmsid="nfbCMS-N3-S-217-L-WS-1-南下入口-芬園" status="0"  message="酒駕害人害己別再心存僥倖交通部提醒您"></Info>
+		<Info cmsid="nfbCMS-T74-E-2.600-M" status="0"  message="保持車距請勿超速"></Info>
+		<Info cmsid="nfbCMS-N6-E-33.652-M" status="0"  message="酒後開車多風險指定駕駛最保險"></Info>
+		<Info cmsid="nfbCMS-N3-N-182-L-EN-1-北上入口-台中" status="0"  message="酒駕害人害己別再心存僥倖交通部提醒您"></Info>
+		<Info cmsid="nfbCMS-T76-W-16.505-M" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-N1-S-167.015-M" status="0"  message="至台中　約 7分至彰化　約19分"></Info>
+		<Info cmsid="nfbCMS-N3-S-181.685-M" status="0"  message="天候不佳請開頭燈拉長車距減速慢行"></Info>
+		<Info cmsid="nfbCMS-T72-E-14.020-M" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-N1-S-245.870-M" status="0"  message="行車請繫安全帶高公局祝您平安"></Info>
+		<Info cmsid="nfbCMS-N1-N-133.760-M" status="0"  message="天候不佳請開頭燈拉長車距減速慢行"></Info>
+		<Info cmsid="nfbCMS-N1-N-158-R-2" status="0"  message="關"></Info>
+		<Info cmsid="nfbCMS-N3-S-130-L-WS-1-南下入口-後龍" status="0"  message="酒駕害人害己別再心存僥倖交通部提醒您"></Info>
+		<Info cmsid="nfbCMS-N1-S-140-L-ES-21-銅鑼科學園區" status="0"  message="小型車駕駛及前、後座乘客請繫上安全帶"></Info>
+		<Info cmsid="nfbCMS-N3-N-183.942-M" status="0"  message="天候不佳請開頭燈拉長車距減速慢行"></Info>
+		<Info cmsid="nfbCMS-T74-W-18-L-EW-1-潭子中山路" status="0"  message="保持車距請勿超速"></Info>
+		<Info cmsid="nfbCMS-T74-W-25.565-M" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-N6-E-29-L-NE-1-愛蘭" status="0"  message="請勿超速"></Info>
+		<Info cmsid="nfbCMS-N3-N-170-R-4" status="0"  message="進出匝道  請打方向燈"></Info>
+		<Info cmsid="nfbCMS-T76-E-14.095-M" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-N3-S-155.681-M" status="0"  message="至沙鹿　約12分至和美　約21分"></Info>
+		<Info cmsid="nfbCMS-N3-S-228-L-WS-1-南下入口-中寮" status="0"  message="酒駕害人害己別再心存僥倖交通部提醒您"></Info>
+		<Info cmsid="nfbCMS-T72-E-24.202-M" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-N4-W-14-L-NW-1-西向入口-東勢" status="0"  message="酒駕害人害己別再心存僥倖交通部提醒您"></Info>
+		<Info cmsid="nfbCMS-T74-E-8.681-N" status="0"  message="保持車距請勿超速"></Info>
+		<Info cmsid="nfbCMS-T78-E-28.500-M" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-T74-E-8-L-WE-1-市政路" status="0"  message="保持車距請勿超速"></Info>
+		<Info cmsid="nfbCMS-N1-S-132-L-WS-1-南下入口-苗栗" status="0"  message="嚴懲重大違規闖紅燈嚴重超速、酒後駕車"></Info>
+		<Info cmsid="nfbCMS-N3-S-121.383-M" status="0"  message="至通霄　約13分至大甲　約24分"></Info>
+		<Info cmsid="nfbCMS-N1-S-124.640-M" status="0"  message="行車請繫安全帶高公局祝您平安"></Info>
+		<Info cmsid="nfbCMS-T74-W-1.180-M" status="0"  message="保持車距請勿超速"></Info>
+		<Info cmsid="nfbCMS-N1-N-221.320-M" status="0"  message="至員林　約 7分至彰化　約18分"></Info>
+		<Info cmsid="nfbCMS-N1-N-150.860-M" status="0"  message="天候不佳請開頭燈拉長車距減速慢行"></Info>
+		<Info cmsid="nfbCMS-N1-N-174-L-EN-1-北上入口-台中" status="0"  message="嚴懲重大違規闖紅燈嚴重超速、酒後駕車"></Info>
+		<Info cmsid="nfbCMS-N3-S-156-L-WS-1-南下入口-苑裡" status="0"  message="酒駕害人害己別再心存僥倖交通部提醒您"></Info>
+		<Info cmsid="nfbCMS-T74-E-4.400-M" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-N6-W-30.368-M" status="0"  message="至國姓　約 9分至霧峰系統約21分"></Info>
+		<Info cmsid="nfbCMS-N3-N-125.783-M" status="0"  message="至香山　約 9分至寶山　約15分"></Info>
+		<Info cmsid="nfbCMS-T74-W-2.942-M" status="0"  message="保持車距請勿超速"></Info>
+		<Info cmsid="nfbCMS-N6-E-18.457-M-國姓1號隧道" status="0"  message="保持距離以策安全"></Info>
+		<Info cmsid="nfbCMS-T74-E-14-L-WE-1-松竹路" status="0"  message="保持車距請勿超速"></Info>
+		<Info cmsid="nfbCMS-T72-W-26.349-M" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-N1-L-219-E-3" status="0"  message="嚴禁酒後駕車不併行不競駛確保行車安全"></Info>
+		<Info cmsid="nfbCMS-T74A-E-1-L-SE-1-彰興路" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-N3-N-250-L-EN-1-北上入口-竹山" status="0"  message="酒駕害人害己別再心存僥倖交通部提醒您"></Info>
+		<Info cmsid="nfbCMS-N3-S-124-L-WS-1-南下入口-大山" status="0"  message="酒駕害人害己別再心存僥倖交通部提醒您"></Info>
+		<Info cmsid="nfbCMS-N6-W-18.385-M-國姓1號隧道" status="0"  message="保持距離以策安全"></Info>
+		<Info cmsid="nfbCMS-N3-N-170-R-3" status="0"  message="喝醉似泥濘開車如賭命"></Info>
+		<Info cmsid="nfbCMS-N6-W-29.022-M" status="0"  message="天候不佳請開頭燈拉長車距減速慢行"></Info>
+		<Info cmsid="nfbCMS-N1-S-172.300-M" status="0"  message="保持車距請勿超速"></Info>
+		<Info cmsid="nfbCMS-T74-E-26-L-NS-1-樂業路" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-N3-N-131.253-M" status="0"  message="至香山　約12分至寶山　約19分"></Info>
+		<Info cmsid="nfbCMS-N6-E-17.369-M" status="0"  message="天候不佳請開頭燈拉長車距減速慢行"></Info>
+		<Info cmsid="nfbCMS-N1-N-118.350-M" status="0"  message="至頭份　約 5分至新竹　約11分"></Info>
+		<Info cmsid="nfbCMS-N6-W-3.847-M-EW-主線" status="0"  message="酒後開車多風險指定駕駛最保險"></Info>
+		<Info cmsid="nfbCMS-T74-W-15-L-EW-1" status="0"  message="預計進入北上交流道約 4分鐘"></Info>
+		<Info cmsid="nfbCMS-N3-N-111.023-M" status="0"  message="至竹林　約12分至關西　約19分"></Info>
+		<Info cmsid="nfbCMS-N6-W-16-L-SW-1-國姓" status="0"  message="請勿超速"></Info>
+		<Info cmsid="nfbCMS-N3-S-131.951-M" status="0"  message="開車低頭危險招手"></Info>
+		<Info cmsid="nfbCMS-N1-N-188-L-EN-1-北上入口-彰化" status="0"  message="北上189~186K外側車道施工"></Info>
+		<Info cmsid="nfbCMS-T74-W-9.774-M" status="0"  message="保持車距請勿超速"></Info>
+		<Info cmsid="nfbCMS-N1-N-241.740-M" status="0"  message="行車請繫安全帶高公局祝您平安"></Info>
+		<Info cmsid="nfbCMS-T74A-E-1-L-NE-1-彰興路" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-T78-E-23.748-M" status="0"  message="26K外側車道散落物"></Info>
+		<Info cmsid="nfbCMS-N1-S-236-L-WS-1-南下入口-虎尾" status="0"  message="嚴懲重大違規闖紅燈嚴重超速、酒後駕車"></Info>
+		<Info cmsid="nfbCMS-N3-N-120.107-M" status="0"  message="至竹林　約17分至關西　約24分"></Info>
+		<Info cmsid="nfbCMS-T74-E-16-L-WE-1-崇德路" status="0"  message="保持車距請勿超速"></Info>
+		<Info cmsid="nfbCMS-T74-E-22-L-NS-1-松竹路" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-N3-N-138.502-M" status="0"  message="至新竹系統約21分至大山　約 8分"></Info>
+		<Info cmsid="nfbCMS-T74-W-8.604-M" status="0"  message="開車低頭危險招手"></Info>
+		<Info cmsid="nfbCMS-N3-S-230.228-M" status="0"  message="至竹山　約 8分至斗六　約17分"></Info>
+		<Info cmsid="nfbCMS-T74-E-10.150-M" status="0"  message="開車低頭危險招手"></Info>
+		<Info cmsid="nfbCMS-N1-N-251.300-M" status="0"  message="行車請繫安全帶高公局祝您平安"></Info>
+		<Info cmsid="nfbCMS-N6-W-25-L-EW-1-台14線" status="0"  message="請勿超速行駛注意前車狀態保持安全車距"></Info>
+		<Info cmsid="nfbCMS-T72-E-28.275-M" status="0"  message="身體狀況不佳請勿勉強上路"></Info>
+		<Info cmsid="nfbCMS-N3-N-243-L-EN-1-北上入口-名間" status="0"  message="預計進入北上交流道約 3分鐘"></Info>
+		<Info cmsid="nfbCMS-N1-L-219-W-1" status="0"  message="嚴禁酒後駕車不併行不競駛確保行車安全"></Info>
+		<Info cmsid="nfbCMS-T74-W-23.734-M" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-N3-S-143.152-M" status="0"  message="至大甲　約12分至沙鹿　約19分"></Info>
+		<Info cmsid="nfbCMS-N1-S-125-L-SN-1-南下入口-頭屋" status="0"  message="進出匝道   請打方向燈"></Info>
+		<Info cmsid="nfbCMS-N3-N-268-L-EN-1-北上入口-149甲線道" status="0"  message="酒駕害人害己別再心存僥倖交通部提醒您"></Info>
+		<Info cmsid="nfbCMS-N1-N-183.040-M" status="0"  message="至台中市環中路口經南屯出口約 4分"></Info>
+		<Info cmsid="nfbCMS-N6-W-37-L-NW-1-台21線" status="0"  message="高公局提醒您請勿酒後開車"></Info>
+		<Info cmsid="nfbCMS-N1-S-159.430-M" status="0"  message="天候不佳請開頭燈拉長車距減速慢行"></Info>
+		<Info cmsid="nfbCMS-N1-N-198-L-EN-1-北上入口-彰化" status="0"  message=""></Info>
+		<Info cmsid="nfbCMS-N3-N-145.351-M" status="0"  message="至竹南　約14分至香山　約20分"></Info>
+		<Info cmsid="nfbCMS-N3-N-231-R" status="0"  message="開車不玩寶可夢手機平板勿使用"></Info>
+		<Info cmsid="nfbCMS-N3-N-217-L-EN-1-北上入口-草屯" status="0"  message="酒駕害人害己別再心存僥倖交通部提醒您"></Info>
+		<Info cmsid="nfbCMS-N3-N-156-L-EN-1-北上入口-三義" status="0"  message="酒駕害人害己別再心存僥倖交通部提醒您"></Info>
+		<Info cmsid="nfbCMS-N1-S-249.310-M" status="0"  message="至嘉義　約 9分至新營　約23分"></Info>
+		<Info cmsid="nfbCMS-N3-N-173.692-M" status="0"  message="至大甲　約 5分至通霄　約17分"></Info>
+		<Info cmsid="nfbCMS-T78-E-37.640-M" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-N6-W-17-L-SE-1-台14線" status="0"  message="請勿超速行駛注意前車狀態保持安全車距"></Info>
+		<Info cmsid="nfbCMS-N3-N-115-L-EN-1-北上入口-竹南" status="0"  message="酒駕害人害己別再心存僥倖交通部提醒您"></Info>
+		<Info cmsid="nfbCMS-N6-E-19.157-M-國姓1號隧道" status="0"  message="保持距離以策安全"></Info>
+		<Info cmsid="nfbCMS-N3-N-211-L-EN-1-北上入口-草屯" status="0"  message="酒駕害人害己別再心存僥倖交通部提醒您"></Info>
+		<Info cmsid="nfbCMS-N6-E-16.311-M" status="0"  message="天候不佳請開頭燈拉長車距減速慢行"></Info>
+		<Info cmsid="nfbCMS-N4-E-0-L-SE-1-東向入口-清水" status="0"  message="酒駕害人害己別再心存僥倖交通部提醒您"></Info>
+		<Info cmsid="nfbCMS-N1-S-158-R-1" status="0"  message="加長跟車距離安全有保障"></Info>
+		<Info cmsid="nfbCMS-T74-W-13-L-EW-1-中清路" status="0"  message="保持車距請勿超速"></Info>
+		<Info cmsid="nfbCMS-N3-S-176-L-WS-1-南下入口-沙鹿" status="0"  message="酒駕害人害己別再心存僥倖交通部提醒您"></Info>
+		<Info cmsid="nfbCMS-T74-W-11.272-M" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-N1-S-160-L-WS-1-南下入口-外埔" status="0"  message="嚴懲重大違規闖紅燈嚴重超速、酒後駕車"></Info>
+		<Info cmsid="nfbCMS-N3-N-261.496-M" status="0"  message="至名間　約14分至南投　約20分"></Info>
+		<Info cmsid="nfbCMS-T74-E-32-L-NS-1-德芳南路" status="0"  message="保持車距請勿超速"></Info>
+		<Info cmsid="nfbCMS-T74-W-5.400-M" status="0"  message="保持車距請勿超速"></Info>
+		<Info cmsid="nfbCMS-N4-W-12.850-M" status="0"  message="至中港系統約 8分"></Info>
+		<Info cmsid="nfbCMS-T76-W-24.215-M" status="0"  message="至埔鹽系統約 6分"></Info>
+		<Info cmsid="nfbCMS-N6-W-19.111-M-國姓1號隧道" status="0"  message="保持距離以策安全"></Info>
+		<Info cmsid="nfbCMS-N1-L-230-E-2" status="0"  message="嚴禁酒後駕車不併行不競駛確保行車安全"></Info>
+		<Info cmsid="nfbCMS-T74-E-18-L-NS-1-潭子中山路" status="0"  message="保持車距請勿超速"></Info>
+		<Info cmsid="nfbCMS-T74-W-8-L-EW-1-市政路" status="0"  message="保持車距請勿超速"></Info>
+		<Info cmsid="nfbCMS-N3-S-209-L-WS-1-南下入口-大里" status="0"  message="酒駕害人害己別再心存僥倖交通部提醒您"></Info>
+		<Info cmsid="nfbCMS-N3-S-129.210-M" status="0"  message="至通霄　約 8分至大甲　約20分"></Info>
+		<Info cmsid="nfbCMS-T74-E-0.395-N" status="0"  message="開車低頭危險招手"></Info>
+		<Info cmsid="nfbCMS-N6-E-4.546-M" status="0"  message="至國姓　約 9分至愛蘭　約17分"></Info>
+		<Info cmsid="nfbCMS-T74-W-5.367-M" status="0"  message="保持車距請勿超速"></Info>
+		<Info cmsid="nfbCMS-N3-N-237.537-M" status="0"  message="至草屯　約11分至烏日　約17分"></Info>
+		<Info cmsid="nfbCMS-N4-E-13.747-M" status="0"  message="行車切勿疲勞駕駛養足精神一路平安"></Info>
+		<Info cmsid="nfbCMS-T74-W-22-L-SN-1-松竹路" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-T72-W-23.917-M" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-N3-N-203.883-M" status="0"  message="行車請繫安全帶高公局祝您平安"></Info>
+		<Info cmsid="nfbCMS-N6-E-19.757-M-國姓1號隧道" status="0"  message="保持距離以策安全"></Info>
+		<Info cmsid="nfbCMS-N1-L-240-W-1" status="0"  message="酒駕害人害己別再心存僥倖交通部提醒您"></Info>
+		<Info cmsid="nfbCMS-T74-E-10-L-WE-1-西屯路" status="0"  message="開車低頭危險招手"></Info>
+		<Info cmsid="nfbCMS-T74-E-16.640-M" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-T74-W-36.934-M" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-N1-S-149-L-WS-1-南下入口-后里" status="0"  message="嚴懲重大違規闖紅燈嚴重超速、酒後駕車"></Info>
+		<Info cmsid="nfbCMS-N3-S-202-L-WS-2-南下入口-和美" status="0"  message="酒駕害人害己別再心存僥倖交通部提醒您"></Info>
+		<Info cmsid="nfbCMS-N6-W-29-L-SE-1-台14線" status="0"  message="請勿超速行駛注意前車狀態保持安全車距"></Info>
+		<Info cmsid="nfbCMS-N3-S-163.151-M" status="0"  message="至和美　約17分至快官　約23分"></Info>
+		<Info cmsid="nfbCMS-N1-S-161.785-M" status="0"  message="天候不佳請開頭燈拉長車距減速慢行"></Info>
+		<Info cmsid="nfbCMS-N1-S-149-L-WS-1-南下入口-三義" status="0"  message="違規使用遠光燈罰三千至六千"></Info>
+		<Info cmsid="nfbCMS-N1-S-181-L-WS-1-南下入口-龍井" status="0"  message="嚴懲重大違規闖紅燈嚴重超速、酒後駕車"></Info>
+		<Info cmsid="nfbCMS-N3-N-165.532-M" status="0"  message="至通霄　約12分至後龍　約20分"></Info>
+		<Info cmsid="nfbCMS-N1-S-218.905-M" status="0"  message="至斗南　約14分至大林　約20分"></Info>
+		<Info cmsid="nfbCMS-N1-S-209.810-M" status="0"  message="行車請繫安全帶高公局祝您平安"></Info>
+		<Info cmsid="nfbCMS-T74-W-32-L-SN-1-大衛路" status="0"  message="保持車距請勿超速"></Info>
+		<Info cmsid="nfbCMS-N3-N-243-L-EN-1-北上入口-竹山" status="0"  message="預計進入北上交流道約 4分鐘"></Info>
+		<Info cmsid="nfbCMS-N1-L-240-E-2" status="0"  message="酒駕害人害己別再心存僥倖交通部提醒您"></Info>
+		<Info cmsid="nfbCMS-N3-S-182-L-WS-1-南下入口-龍井" status="0"  message="酒駕害人害己別再心存僥倖交通部提醒您"></Info>
+		<Info cmsid="nfbCMS-N3-S-171.392-M" status="0"  message="行車請繫安全帶高公局祝您平安"></Info>
+		<Info cmsid="nfbCMS-N4-W-14-L-NW-1-西向入口-后里" status="0"  message="酒駕害人害己別再心存僥倖交通部提醒您"></Info>
+		<Info cmsid="nfbCMS-T78-W-9.610-M" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-N4-E-1.117-M" status="0"  message="至台中系統約 7分"></Info>
+		<Info cmsid="nfbCMS-N1-N-169.105-M" status="0"  message="天候不佳請開頭燈拉長車距減速慢行"></Info>
+		<Info cmsid="nfbCMS-T74-W-2.898-M" status="0"  message="開車低頭危險招手"></Info>
+		<Info cmsid="nfbCMS-T72-E-8.902-M" status="0"  message="至銅鑼約 9分"></Info>
+		<Info cmsid="nfbCMS-T72-E-10.800-M" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-N6-W-27.831-M-埔里隧道" status="0"  message="保持距離以策安全"></Info>
+		<Info cmsid="nfbCMS-T74-E-23.025-M" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-T72-W-29.666-M" status="0"  message="身體狀況不佳請勿勉強上路"></Info>
+		<Info cmsid="nfbCMS-T74-E-15.800-M" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-N3-S-236-L-WS-1-南下入口-南投" status="0"  message="預計進入北上交流道約 9分鐘"></Info>
+		<Info cmsid="nfbCMS-T74-W-15.940-M" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-N6-E-23.922-M" status="0"  message="天候不佳請開頭燈拉長車距減速慢行"></Info>
+		<Info cmsid="nfbCMS-N1-N-181-L-EN-1-北上入口-台中" status="0"  message="嚴懲重大違規闖紅燈嚴重超速、酒後駕車"></Info>
+		<Info cmsid="nfbCMS-N4-E-9-L-SE-1-東向入口-神岡" status="0"  message="酒駕害人害己別再心存僥倖交通部提醒您"></Info>
+		<Info cmsid="nfbCMS-T74-E-32.900-M" status="0"  message="行車切勿疲勞駕駛養足精神一路平安"></Info>
+		<Info cmsid="nfbCMS-N3-N-137.814-M" status="0"  message="保持車距請勿超速"></Info>
+		<Info cmsid="nfbCMS-N3-S-224-L-WS-1-南下入口-南投" status="0"  message="酒駕害人害己別再心存僥倖交通部提醒您"></Info>
+		<Info cmsid="nfbCMS-T74-W-18.812-M" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-T74-E-25.139-M" status="0"  message="省道路況請撥0800-231-035"></Info>
+		<Info cmsid="nfbCMS-N1-S-257-L-E-1" status="0"  message="行前詳檢查▲留意胎紋胎壓"></Info>
+		<Info cmsid="nfbCMS-N1-S-255.530-M" status="0"  message="豪雨(106)天候不佳▲  請小心駕駛"></Info>
+		<Info cmsid="nfbCMS-N1-S-262.450-M" status="0"  message="豪雨(106)天候不佳▲  請小心駕駛"></Info>
+		<Info cmsid="nfbCMS-N1-S-264-L-E-1" status="0"  message="新營服務區▲加油站▲暫停營業"></Info>
+		<Info cmsid="nfbCMS-N1-S-268.890-M" status="0"  message="新營服務區▲加油站暫停營業"></Info>
+		<Info cmsid="nfbCMS-N1-S-270-L-E-1" status="0"  message="新營服務區▲加油站▲暫停營業"></Info>
+		<Info cmsid="nfbCMS-N1-S-280.050-M" status="0"  message="關"></Info>
+		<Info cmsid="nfbCMS-N1-S-282.700-M" status="0"  message="新營服務區▲加油站暫停營業"></Info>
+		<Info cmsid="nfbCMS-N1-S-286.500-M" status="0"  message="至  麻豆  約10分▲至  台南  約26分"></Info>
+		<Info cmsid="nfbCMS-N1-S-288-L-E-1" status="0"  message="新營服務區▲加油站▲暫停營業"></Info>
+		<Info cmsid="nfbCMS-N1-S-301.900-M" status="0"  message="至  台南  約18分▲至  路竹  約24分"></Info>
+		<Info cmsid="nfbCMS-N1-S-303-L-E-1" status="0"  message="新營服務區▲加油站▲暫停營業"></Info>
+		<Info cmsid="nfbCMS-N1-S-309.050-M" status="0"  message="車多(27)317-321K壅塞"></Info>
+		<Info cmsid="nfbCMS-N1-S-311-L-E-1" status="0"  message="國1南下317-▲321K壅塞"></Info>
+		<Info cmsid="nfbCMS-N1-S-312.520-M" status="0"  message="車多(27)317-321K壅塞"></Info>
+		<Info cmsid="nfbCMS-N1-S-318.000-M" status="0"  message="320-321K施工▲封閉外側車道"></Info>
+		<Info cmsid="nfbCMS-N1-S-319-L-E-1" status="0"  message="國1南下320-▲321K施工"></Info>
+		<Info cmsid="nfbCMS-N1-S-321.800-M" status="0"  message="車多(27)車多小心駕駛"></Info>
+		<Info cmsid="nfbCMS-N1-S-325.390-M" status="0"  message="行前詳檢查▲留意胎紋胎壓"></Info>
+		<Info cmsid="nfbCMS-N1-S-327-L-E-1" status="0"  message="台南市107年▲06月交通事故▲14件14亡5傷"></Info>
+		<Info cmsid="nfbCMS-N1-S-334.140-M" status="0"  message="至岡山約9分▲至高雄約25分"></Info>
+		<Info cmsid="nfbCMS-N1-S-336.430-M" status="0"  message="豪雨(106)雨中行車▲  勿急踩煞車"></Info>
+		<Info cmsid="nfbCMS-N1-S-338-L-E-1" status="0"  message="關"></Info>
+		<Info cmsid="nfbCMS-N1-S-340.850-M" status="0"  message="豪雨(106)雨中行車▲  勿急踩煞車"></Info>
+		<Info cmsid="nfbCMS-N1-S-342-L-E-1" status="0"  message="變換車道前▲      先打方向燈"></Info>
+		<Info cmsid="nfbCMS-N1-S-342-L-N-1" status="0"  message="變換車道▲請打方向燈"></Info>
+		<Info cmsid="nfbCMS-N1-S-342-L-S-1" status="0"  message="生命安全至上▲切勿疲勞駕駛"></Info>
+		<Info cmsid="nfbCMS-N1-S-346.200-M" status="0"  message="至  高雄  約18分▲至  五甲  約21分"></Info>
+		<Info cmsid="nfbCMS-N1-S-347.680-M" status="0"  message="豪雨(106)天候不佳▲  請小心駕駛"></Info>
+		<Info cmsid="nfbCMS-N1-S-349-L-E-1" status="0"  message="載運物品▲請捆綁牢固"></Info>
+		<Info cmsid="nfbCMS-N1-S-353.560-M" status="0"  message="豪雨(106)天候不佳▲  請小心駕駛"></Info>
+		<Info cmsid="nfbCMS-N1-S-356-L-E-1" status="0"  message="載運物品▲請捆綁牢固"></Info>
+		<Info cmsid="nfbCMS-N1-S-356-L-E-2" status="0"  message="載運物品▲請捆綁牢固"></Info>
+		<Info cmsid="nfbCMS-N1-S-356-L-S-1" status="0"  message="載運物品▲請捆綁牢固"></Info>
+		<Info cmsid="nfbCMS-N1-S-363.600-M" status="0"  message="豪雨(106)天候不佳▲  請小心駕駛"></Info>
+		<Info cmsid="nfbCMS-N1-S-364.500-M" status="0"  message="豪雨(106)雨中行車▲  勿急踩煞車"></Info>
+		<Info cmsid="nfbCMS-N1-S-367-L-E-1" status="0"  message="開車不違規▲一路順平安歸"></Info>
+		<Info cmsid="nfbCMS-N1-S-367-L-E-2" status="0"  message="行前詳檢查▲留意胎紋胎壓"></Info>
+		<Info cmsid="nfbCMS-N1-S-367-L-E-3" status="0"  message="開車前檢查好▲行車時無煩惱"></Info>
+		<Info cmsid="nfbCMS-N1-S-366.070-M" status="0"  message="豪雨(106)雨中行車▲  勿急踩煞車"></Info>
+		<Info cmsid="nfbCMS-N1-S-368.517-M" status="0"  message="關"></Info>
+		<Info cmsid="nfbCMS-N1-S-369.800-M" status="0"  message="台88東向6-7K施工▲封閉外側車道"></Info>
+		<Info cmsid="nfbCMS-N1-S-371.330-M" status="0"  message="豪雨(106)天候不佳▲  請小心駕駛"></Info>
+		<Info cmsid="nfbCMS-N1-S-374-L-E-1" status="0"  message="行前詳檢查▲留意胎紋胎壓"></Info>
+		<Info cmsid="nfbCMS-N1-S-317.000-M" status="0"  message="關"></Info>
+		<Info cmsid="nfbCMS-N1-N-374-L-N-1" status="0"  message="生命安全至上▲切勿疲勞駕駛"></Info>
+		<Info cmsid="nfbCMS-N1-N-374-L-W-1" status="0"  message="保持行車▲    安全距離"></Info>
+		<Info cmsid="nfbCMS-N1-N-373-L-E-1" status="0"  message="載運物品▲請捆綁牢固"></Info>
+		<Info cmsid="nfbCMS-N1-N-373-L-W-1" status="0"  message="載運物品▲請捆綁牢固"></Info>
+		<Info cmsid="nfbCMS-N1-N-372-L-W-1" status="0"  message="生命安全至上▲切勿疲勞駕駛"></Info>
+		<Info cmsid="nfbCMS-N1-N-370-L-N-1" status="0"  message="變換車道▲請打方向燈"></Info>
+		<Info cmsid="nfbCMS-N1-N-369.743-M" status="0"  message="至  岡山  約13分▲至  路竹  約20分"></Info>
+		<Info cmsid="nfbCMS-N1-N-367-L-N-1" status="0"  message="生命安全至上▲切勿疲勞駕駛"></Info>
+		<Info cmsid="nfbCMS-N1-N-367-L-W-1" status="0"  message="開車不違規▲一路順平安歸"></Info>
+		<Info cmsid="nfbCMS-N1-N-367-L-W-2" status="0"  message="變換車道▲請打方向燈"></Info>
+		<Info cmsid="nfbCMS-N1-N-367-L-W-3" status="0"  message="開車前檢查好▲行車時無煩惱"></Info>
+		<Info cmsid="nfbCMS-N1-N-367-L-W-4" status="0"  message="開車不違規▲一路順平安歸"></Info>
+		<Info cmsid="nfbCMS-N1-N-360.940-M" status="0"  message="豪雨(106)天候不佳▲  請小心駕駛"></Info>
+		<Info cmsid="nfbCMS-N1-N-359.450-M" status="0"  message="豪雨(106)雨中行車▲  勿急踩煞車"></Info>
+		<Info cmsid="nfbCMS-N1-N-356-L-N-1" status="0"  message="載運物品▲請捆綁牢固"></Info>
+		<Info cmsid="nfbCMS-N1-N-356-L-N-2" status="0"  message="載運物品▲請捆綁牢固"></Info>
+		<Info cmsid="nfbCMS-N1-N-356-L-W-1" status="0"  message="載運物品▲請捆綁牢固"></Info>
+		<Info cmsid="nfbCMS-N1-N-356-L-W-2" status="0"  message="載運物品▲請捆綁牢固"></Info>
+		<Info cmsid="nfbCMS-N1-N-353.800-M" status="0"  message="行前詳檢查▲留意胎紋胎壓"></Info>
+		<Info cmsid="nfbCMS-N1-N-351.400-M" status="0"  message="豪雨(106)雨中行車▲  勿急踩煞車"></Info>
+		<Info cmsid="nfbCMS-N1-N-349-L-W-1" status="0"  message="載運物品▲請捆綁牢固"></Info>
+		<Info cmsid="nfbCMS-N1-N-347.400-M" status="0"  message="豪雨(106)雨中行車▲  勿急踩煞車"></Info>
+		<Info cmsid="nfbCMS-N1-N-345.510-M" status="0"  message="至  台南  約11分▲至  麻豆  約25分"></Info>
+		<Info cmsid="nfbCMS-N1-N-340.280-M" status="0"  message="豪雨(106)雨中行車▲  勿急踩煞車"></Info>
+		<Info cmsid="nfbCMS-N1-N-338-L-W-1" status="0"  message="生命安全至上▲切勿疲勞駕駛"></Info>
+		<Info cmsid="nfbCMS-N1-N-336.800-M" status="0"  message="豪雨(106)天候不佳▲  請小心駕駛"></Info>
+		<Info cmsid="nfbCMS-N1-N-328.780-M" status="0"  message="開車不逼車▲      不超速"></Info>
+		<Info cmsid="nfbCMS-N1-N-327-L-W-1" status="0"  message="騎乘機車勿▲進入高速公路"></Info>
+		<Info cmsid="nfbCMS-N1-N-324-L-N-1" status="0"  message="變換車道▲請打方向燈"></Info>
+		<Info cmsid="nfbCMS-N1-N-322.900-M" status="0"  message="至麻豆約12分▲至新營約21分"></Info>
+		<Info cmsid="nfbCMS-N1-N-319-L-W-1" status="0"  message="國1南下320-▲321K施工"></Info>
+		<Info cmsid="nfbCMS-N1-N-314.540-M" status="0"  message="豪雨(106)天候不佳▲  請小心駕駛"></Info>
+		<Info cmsid="nfbCMS-N1-N-312.950-M" status="0"  message="豪雨(106)天候不佳▲  請小心駕駛"></Info>
+		<Info cmsid="nfbCMS-N1-N-311-L-W-1" status="0"  message="國1南下317-▲321K壅塞"></Info>
+		<Info cmsid="nfbCMS-N1-N-305.400-M" status="0"  message="新營服務區▲加油站暫停營業"></Info>
+		<Info cmsid="nfbCMS-N1-N-303-L-W-1" status="0"  message="新營服務區▲加油站▲暫停營業"></Info>
+		<Info cmsid="nfbCMS-N1-N-290.390-M" status="0"  message="新營服務區▲加油站暫停營業"></Info>
+		<Info cmsid="nfbCMS-N1-N-288-L-W-1" status="0"  message="新營服務區▲加油站▲暫停營業"></Info>
+		<Info cmsid="nfbCMS-N1-N-285.800-M" status="0"  message="新營服務區▲加油站暫停營業"></Info>
+		<Info cmsid="nfbCMS-N1-N-284.200-R" status="0"  message="關"></Info>
+		<Info cmsid="nfbCMS-N1-N-281.400-M" status="0"  message="豪雨(106)雨中行車▲  勿急踩煞車"></Info>
+		<Info cmsid="nfbCMS-N1-N-271.250-M" status="0"  message="豪雨(106)雨中行車▲  勿急踩煞車"></Info>
+		<Info cmsid="nfbCMS-N1-N-270-L-W-1" status="0"  message="新營服務區▲加油站▲暫停營業"></Info>
+		<Info cmsid="nfbCMS-N1-N-266.400-M" status="0"  message="豪雨(106)雨中行車▲  勿急踩煞車"></Info>
+		<Info cmsid="nfbCMS-N1-N-264-L-W-1" status="0"  message="新營服務區▲加油站▲暫停營業"></Info>
+		<Info cmsid="nfbCMS-N1-N-260.530-M" status="0"  message="豪雨(106)天候不佳▲  請小心駕駛"></Info>
+		<Info cmsid="nfbCMS-N1-N-257-L-W-1" status="0"  message="生命安全至上▲切勿疲勞駕駛"></Info>
+		<Info cmsid="nfbCMS-N10-E-0-L-E-1" status="0"  message="關"></Info>
+		<Info cmsid="nfbCMS-N10-E-0.030-M" status="0"  message="雨天行車保持▲較長跟車距離"></Info>
+		<Info cmsid="nfbCMS-N10-E-0-L-E-2" status="0"  message="往國1南向▲建議由民族路▲匝道進入"></Info>
+		<Info cmsid="nfbCMS-N10-E-4-L-N-1" status="0"  message="行車詳檢查▲留意胎紋胎壓"></Info>
+		<Info cmsid="nfbCMS-N10-E-5.344-M" status="0"  message="雨中行車  勿任意變換車道"></Info>
+		<Info cmsid="nfbCMS-N10-E-6-L-N-1" status="0"  message="載運物品▲  請捆綁牢固"></Info>
+		<Info cmsid="nfbCMS-N10-E-12.013-M" status="0"  message="關"></Info>
+		<Info cmsid="nfbCMS-N10-E-13-L-N-1" status="0"  message="故障車輛後方▲100公尺處▲放置警示標誌"></Info>
+		<Info cmsid="nfbCMS-N10-E-18.452-M" status="0"  message="雨中行車  勿急踩煞車"></Info>
+		<Info cmsid="nfbCMS-N10-E-22.180-M" status="0"  message="雨中行車▲  勿急踩煞車"></Info>
+		<Info cmsid="nfbCMS-N10-E-23-L-N-1" status="0"  message="待援至護欄外▲或車輛前方安▲全處等待"></Info>
+		<Info cmsid="nfbCMS-N10-E-33-L-N-1" status="0"  message="駕、乘車輛▲  繫妥安全帶"></Info>
+		<Info cmsid="nfbCMS-N10-W-33-L-S-1" status="0"  message="關"></Info>
+		<Info cmsid="nfbCMS-N10-W-30.202-M" status="0"  message="雨天行車保持▲較長跟車距離"></Info>
+		<Info cmsid="nfbCMS-N10-W-23-L-S-1" status="0"  message="故障車輛後方▲100公尺處▲放置警示標誌"></Info>
+		<Info cmsid="nfbCMS-N10-W-20.952-M" status="0"  message="國3北上中寮隧道▲施工封閉內側車道"></Info>
+		<Info cmsid="nfbCMS-N10-W-13.902-M" status="0"  message="關"></Info>
+		<Info cmsid="nfbCMS-N10-W-13-L-S-1" status="0"  message="關"></Info>
+		<Info cmsid="nfbCMS-N10-W-8.000-M" status="0"  message="雨中行車  勿急踩煞車"></Info>
+		<Info cmsid="nfbCMS-N10-W-6-L-S-1" status="0"  message="載運物品▲  請捆綁牢固"></Info>
+		<Info cmsid="nfbCMS-N10-W-2.898-M" status="0"  message="往國1南下匝道 車道縮減"></Info>
+		<Info cmsid="nfbCMS-N10-W-4-L-S-1" status="0"  message="載運物品▲  請捆綁牢固"></Info>
+		<Info cmsid="nfbCMS-N1K-E-0-L-N-1" status="0"  message="開車不違規▲一路順平安歸"></Info>
+		<Info cmsid="nfbCMS-N1K-E-0-T" status="0"  message="酒後不開車▲開車不喝酒"></Info>
+		<Info cmsid="nfbCMS-N1K-E-1-L-E-1" status="0"  message="開車不違規▲一路順平安歸"></Info>
+		<Info cmsid="nfbCMS-N3-S-272.680-M" status="0"  message="豪雨(106)雨天行車保持▲較長跟車距離"></Info>
+		<Info cmsid="nfbCMS-N3-S-277.905-M" status="0"  message="雨天行車  注意前方路況"></Info>
+		<Info cmsid="nfbCMS-N3-S-279-L-E-1" status="0"  message="關"></Info>
+		<Info cmsid="nfbCMS-N3-S-287.995-M" status="0"  message="雨中行車  勿急踩煞車"></Info>
+		<Info cmsid="nfbCMS-N3-S-290-L-E-1" status="0"  message="故障車輛後方▲100公尺處▲放置警示標誌"></Info>
+		<Info cmsid="nfbCMS-N3-S-290-L-S-1" status="0"  message="待援至護欄外▲或車輛前方安▲全處等待"></Info>
+		<Info cmsid="nfbCMS-N3-S-292.295-M" status="0"  message="關"></Info>
+		<Info cmsid="nfbCMS-N3-S-296.445-M" status="0"  message="雨中行車  勿任意變換車道"></Info>
+		<Info cmsid="nfbCMS-N3-S-297-L-E-1" status="0"  message="駕、乘車輛▲  繫妥安全帶"></Info>
+		<Info cmsid="nfbCMS-N3-S-310.789-M" status="0"  message="豪雨(106)雨天行車保持▲較長跟車距離"></Info>
+		<Info cmsid="nfbCMS-N3-S-311-L-E-1" status="0"  message="台南市107年▲6月交通事故▲14件14亡5傷"></Info>
+		<Info cmsid="nfbCMS-N3-S-312.444-M" status="0"  message="開車前檢查好▲行車時無煩惱"></Info>
+		<Info cmsid="nfbCMS-N3-S-328.600-M" status="0"  message="豪雨(106)勿隨意▲    變換車道"></Info>
+		<Info cmsid="nfbCMS-N3-S-329-L-E-1" status="0"  message="台南市107年▲6月交通事故▲14件14亡5傷"></Info>
+		<Info cmsid="nfbCMS-N3-S-339.124-M" status="0"  message="豪雨(106)雨中行車▲  勿急踩煞車"></Info>
+		<Info cmsid="nfbCMS-N3-S-340-L-E-1" status="0"  message="台南市107年▲6月交通事故▲14件14亡5傷"></Info>
+		<Info cmsid="nfbCMS-N3-S-340.996-M" status="0"  message="開車前檢查好▲行車時無煩惱"></Info>
+		<Info cmsid="nfbCMS-N3-S-357-L-S-1" status="0"  message="國3南下▲中寮隧道施工"></Info>
+		<Info cmsid="nfbCMS-N3-S-357-L-E-1" status="0"  message="國3南下▲中寮隧道施工"></Info>
+		<Info cmsid="nfbCMS-N3-S-357-L-N-1" status="0"  message="關"></Info>
+		<Info cmsid="nfbCMS-N3-S-368.695-M" status="0"  message="中寮隧道施工封內側2車道"></Info>
+		<Info cmsid="nfbCMS-N3-S-369-L-E-1" status="0"  message="國3南下▲中寮隧道施工"></Info>
+		<Info cmsid="nfbCMS-N3-S-371.475-M" status="0"  message="中寮隧道施工▲封內側2車道"></Info>
+		<Info cmsid="nfbCMS-N3-S-378.135-M" status="0"  message="中寮隧道施工封內側2車道"></Info>
+		<Info cmsid="nfbCMS-N3-S-379.709-M" status="0"  message="關"></Info>
+		<Info cmsid="nfbCMS-N3-S-385.410-M" status="0"  message="豪雨(106)雨天行車▲注意前方路況"></Info>
+		<Info cmsid="nfbCMS-N3-S-389.995-M" status="0"  message="關"></Info>
+		<Info cmsid="nfbCMS-N3-S-391-L-E-1" status="0"  message="待援至護欄外▲或車輛前方安▲全處等待"></Info>
+		<Info cmsid="nfbCMS-N3-S-398.838-M" status="0"  message="雨中行車請勿▲任意變換車道"></Info>
+		<Info cmsid="nfbCMS-N3-S-400-L-S-1" status="0"  message="故障車輛後方▲100公尺處▲放置警示標誌"></Info>
+		<Info cmsid="nfbCMS-N3-S-405.661-M" status="0"  message="關"></Info>
+		<Info cmsid="nfbCMS-N3-S-407-L-E-1" status="0"  message="駕、乘車輛▲  繫妥安全帶"></Info>
+		<Info cmsid="nfbCMS-N3-S-410.223-M" status="0"  message="雨中行車▲  勿急踩煞車"></Info>
+		<Info cmsid="nfbCMS-N3-S-413.968-M" status="0"  message="雨天行車▲注意前方路況"></Info>
+		<Info cmsid="nfbCMS-N3-S-420.675-M" status="0"  message="雨天行車保持▲較長跟車距離"></Info>
+		<Info cmsid="nfbCMS-N3-S-421-L-E-1" status="0"  message="行車詳檢查▲留意胎紋胎壓"></Info>
+		<Info cmsid="nfbCMS-N3-S-423.491-M" status="0"  message="關"></Info>
+		<Info cmsid="nfbCMS-N3-S-424-L-E-1" status="0"  message="待援至護欄外▲或車輛前方安▲全處等待"></Info>
+		<Info cmsid="nfbCMS-N3-S-429.444-M" status="0"  message="雨天行車▲注意前方路況"></Info>
+		<Info cmsid="nfbCMS-N3-S-430-L-E-1" status="0"  message="駕、乘車輛▲  繫妥安全帶"></Info>
+		<Info cmsid="nfbCMS-N3-S-363.860-R" status="0"  message="關"></Info>
+		<Info cmsid="nfbCMS-N3-S-363.800-R" status="0"  message="關"></Info>
+		<Info cmsid="nfbCMS-N3-N-431.500-M" status="0"  message="關"></Info>
+		<Info cmsid="nfbCMS-N3-N-427.254-M" status="0"  message="雨天適度減速▲ 勿急踩煞車"></Info>
+		<Info cmsid="nfbCMS-N3-N-425.604-M" status="0"  message="雨天行車保持▲較長跟車距離"></Info>
+		<Info cmsid="nfbCMS-N3-N-412.610-M" status="0"  message="關"></Info>
+		<Info cmsid="nfbCMS-N3-N-409.031-M" status="0"  message="雨天行車▲注意前方路況"></Info>
+		<Info cmsid="nfbCMS-N3-N-401.493-M" status="0"  message="雨中行車請勿▲任意變換車道"></Info>
+		<Info cmsid="nfbCMS-N3-N-392.001-M" status="0"  message="雨中行車▲  勿急踩煞車"></Info>
+		<Info cmsid="nfbCMS-N3-N-389.374-M" status="0"  message="豪雨(106)雨天行車保持▲較長跟車距離"></Info>
+		<Info cmsid="nfbCMS-N3-N-381.505-M" status="0"  message="中寮隧道施工封閉內側車道"></Info>
+		<Info cmsid="nfbCMS-N3-N-379.693-M" status="0"  message="關"></Info>
+		<Info cmsid="nfbCMS-N3-N-370.420-M" status="0"  message="豪雨(106)雨天行車▲注意前方路況"></Info>
+		<Info cmsid="nfbCMS-N3-N-363.860-R" status="0"  message="關"></Info>
+		<Info cmsid="nfbCMS-N3-N-363.810-R" status="0"  message="關"></Info>
+		<Info cmsid="nfbCMS-N3-N-343.360-M" status="0"  message="豪雨(106)雨中行車▲  勿急踩煞車"></Info>
+		<Info cmsid="nfbCMS-N3-N-340-L-W-1" status="0"  message="台南市107年▲6月交通事故▲14件14亡5傷"></Info>
+		<Info cmsid="nfbCMS-N3-N-330.764-M" status="0"  message="豪雨(106)勿隨意▲    變換車道"></Info>
+		<Info cmsid="nfbCMS-N3-N-319.624-R" status="0"  message="關"></Info>
+		<Info cmsid="nfbCMS-N3-N-421-L-N-1" status="0"  message="國3中寮隧道▲雙向施工▲請小心駕駛"></Info>
+		<Info cmsid="nfbCMS-N3-N-407-L-W-1" status="0"  message="國3中寮隧道▲雙向施工▲請小心駕駛"></Info>
+		<Info cmsid="nfbCMS-N3-N-400-L-N-1" status="0"  message="國3中寮隧道▲雙向施工▲請小心駕駛"></Info>
+		<Info cmsid="nfbCMS-N3-N-391-L-W-1" status="0"  message="國3中寮隧道▲雙向施工▲請小心駕駛"></Info>
+		<Info cmsid="nfbCMS-N3-N-369-L-W-1" status="0"  message="國3南下▲中寮隧道施工"></Info>
+		<Info cmsid="nfbCMS-N3-N-329-L-W-1" status="0"  message="台南市107年▲6月交通事故▲14件14亡5傷"></Info>
+		<Info cmsid="nfbCMS-N3-N-315.354-M" status="0"  message="至  梅山  約21分"></Info>
+		<Info cmsid="nfbCMS-N3-N-314.674-M" status="0"  message="關"></Info>
+		<Info cmsid="nfbCMS-N3-N-311-L-W-1" status="0"  message="台南市107年▲6月交通事故▲14件14亡5傷"></Info>
+		<Info cmsid="nfbCMS-N3-N-298.595-M" status="0"  message="至斗六  約23分"></Info>
+		<Info cmsid="nfbCMS-N3-N-297-L-W-1" status="0"  message="待援至護欄外▲或車輛前方安▲全處等待"></Info>
+		<Info cmsid="nfbCMS-N3-N-294.755-M" status="0"  message="雨天行車  注意前方路況"></Info>
+		<Info cmsid="nfbCMS-N3-N-292.335-M" status="0"  message="雨天行車保持較長跟車距離"></Info>
+		<Info cmsid="nfbCMS-N3-N-290-L-N-1" status="0"  message="行車詳檢查▲留意胎紋胎壓"></Info>
+		<Info cmsid="nfbCMS-N3-N-290-L-W-1" status="0"  message="駕、乘車輛▲  繫妥安全帶"></Info>
+		<Info cmsid="nfbCMS-N3-N-280.495-M" status="0"  message="雨中行車  勿任意變換車道"></Info>
+		<Info cmsid="nfbCMS-N3-N-279-L-W-1" status="0"  message="關"></Info>
+		<Info cmsid="nfbCMS-N3-N-274.820-M" status="0"  message="豪雨(106)雨天行車保持▲較長跟車距離"></Info>
+		<Info cmsid="nfbCMS-N3-N-274.364-R" status="0"  message="關"></Info>
+		<Info cmsid="nfbCMS-N3-N-274.354-R" status="0"  message="關"></Info>
+		<Info cmsid="nfbCMS-N3-N-274.324-R" status="0"  message="關"></Info>
+		<Info cmsid="nfbCMS-N3-N-274.314-R" status="0"  message="關"></Info>
+		<Info cmsid="nfbCMS-N3-N-430-L-W-1" status="0"  message="行車詳檢查▲留意胎紋胎壓"></Info>
+		<Info cmsid="nfbCMS-N3-N-424-L-WN-1" status="0"  message="行車詳檢查▲留意胎紋胎壓"></Info>
+		<Info cmsid="nfbCMS-N3-N-424-L-WS-1" status="0"  message="關"></Info>
+		<Info cmsid="nfbCMS-N8-E-0.532-M" status="0"  message="國1南下320-▲321K施工"></Info>
+		<Info cmsid="nfbCMS-N8-E-2-L-N-1" status="0"  message="台南市107年▲6月交通事故▲14件14亡5傷"></Info>
+		<Info cmsid="nfbCMS-N8-E-5.192-M" status="0"  message="施工維護(99)國1南下320-▲321K施工"></Info>
+		<Info cmsid="nfbCMS-N8-E-8.518-M" status="0"  message="下雨路段▲加大跟車距離"></Info>
+		<Info cmsid="nfbCMS-N8-E-13.460-M" status="0"  message="雨中行車請勿▲任意變換車道"></Info>
+		<Info cmsid="nfbCMS-N8-E-15-L-N-1" status="0"  message="台南市107年▲6月交通事故▲14件14亡5傷"></Info>
+		<Info cmsid="nfbCMS-N8-W-15-L-S-1" status="0"  message="台南市107年▲6月交通事故▲14件14亡5傷"></Info>
+		<Info cmsid="nfbCMS-N8-W-10.660-M" status="0"  message="國1南下320-▲321K施工"></Info>
+		<Info cmsid="nfbCMS-N8-W-9-L-W-1" status="0"  message="台南市107年▲6月交通事故▲14件14亡5傷"></Info>
+		<Info cmsid="nfbCMS-N8-W-9-L-S-1" status="0"  message="台南市107年▲6月交通事故▲14件14亡5傷"></Info>
+		<Info cmsid="nfbCMS-N8-W-9-L-E-1" status="0"  message="台南市107年▲6月交通事故▲14件14亡5傷"></Info>
+		<Info cmsid="nfbCMS-N8-W-7.707-M" status="0"  message="雨天行車保持▲較長跟車距離"></Info>
+		<Info cmsid="nfbCMS-N8-W-2.922-M" status="0"  message="行經路口▲    減速慢行"></Info>
+		<Info cmsid="nfbCMS-N8-W-2-L-S-1" status="0"  message="台南市107年▲6月交通事故▲14件14亡5傷"></Info>
+		<Info cmsid="nfbCMS-T82-E-12.375-M" status="0"  message="至嘉義系統▲          約8分"></Info>
+		<Info cmsid="nfbCMS-T82-E-15.996-M" status="0"  message="慢速車▲行駛外側車道"></Info>
+		<Info cmsid="nfbCMS-T82-E-20.617-M" status="0"  message="砂石車貨物▲  嚴密覆蓋勿掉落"></Info>
+		<Info cmsid="nfbCMS-T82-E-23.707-M" status="0"  message="至水上系統▲          約9分"></Info>
+		<Info cmsid="nfbCMS-T82-E-29.095-M" status="0"  message="前後座請繫安全帶"></Info>
+		<Info cmsid="nfbCMS-T82-E-30.991-M" status="0"  message="砂石車貨物▲  嚴密覆蓋勿掉落"></Info>
+		<Info cmsid="nfbCMS-T82-E-33.085-M" status="0"  message="請勿超速行駛▲    注意車前狀態"></Info>
+		<Info cmsid="nfbCMS-T82-W-33.465-M" status="0"  message="至嘉義系統▲          約8分"></Info>
+		<Info cmsid="nfbCMS-T82-W-31.919-M" status="0"  message="至嘉義系統▲          約7分"></Info>
+		<Info cmsid="nfbCMS-T82-W-26.918-M" status="0"  message="載運物品▲請捆綁牢固"></Info>
+		<Info cmsid="nfbCMS-T82-W-24.292-M" status="0"  message="砂石車貨物▲  嚴密覆蓋勿掉落"></Info>
+		<Info cmsid="nfbCMS-T82-W-20.112-M" status="0"  message="砂石車貨物▲  嚴密覆蓋勿掉落"></Info>
+		<Info cmsid="nfbCMS-T82-W-16.164-M" status="0"  message="載運物品▲      請綑綁牢固"></Info>
+		<Info cmsid="nfbCMS-T82-W-12.148-M" status="0"  message="慢速車▲行駛外側車道"></Info>
+		<Info cmsid="nfbCMS-T84-E-24.414-M" status="0"  message="至玉井端  ▲      約13分"></Info>
+		<Info cmsid="nfbCMS-T84-E-33.738-M" status="0"  message="變換車道前▲      請開方向燈"></Info>
+		<Info cmsid="nfbCMS-T84-E-37.232-M" status="0"  message="行車前檢查好▲    開車時無煩惱"></Info>
+		<Info cmsid="nfbCMS-T84-W-38.350-M" status="0"  message="至官田系統▲          約8分"></Info>
+		<Info cmsid="nfbCMS-T84-W-36.715-M" status="0"  message="變換車道前▲      請開方向燈"></Info>
+		<Info cmsid="nfbCMS-T84-W-33.738-M" status="0"  message="開車不違規▲    一路順平安歸"></Info>
+		<Info cmsid="nfbCMS-T84-W-29.592-M" status="0"  message="開車前檢查好▲    行車時無煩惱"></Info>
+		<Info cmsid="nfbCMS-T84-W-23.400-M" status="0"  message="貨車後車廂▲不得附載乘客"></Info>
+		<Info cmsid="nfbCMS-T86-E-11-L-N-1" status="0"  message="開車不違規▲一路順平安歸"></Info>
+		<Info cmsid="nfbCMS-T86-E-5.661-M" status="0"  message="勿超速及確實▲保持行車安全距離"></Info>
+		<Info cmsid="nfbCMS-T86-E-10.597-M" status="0"  message="國3南下中寮隧道▲施工"></Info>
+		<Info cmsid="nfbCMS-T86-E-14.883-M" status="0"  message="國3南下中寮隧道▲施工"></Info>
+		<Info cmsid="nfbCMS-T86-W-18.027-M" status="0"  message="請勿超速行駛▲    注意車前狀態"></Info>
+		<Info cmsid="nfbCMS-T86-W-13.535-M" status="0"  message="前後座請繫安全帶"></Info>
+		<Info cmsid="nfbCMS-T86-W-10.932-M" status="0"  message="勿超速及確實▲保持行車安全距離"></Info>
+		<Info cmsid="nfbCMS-T86-W-9.447-M" status="0"  message="變換車道▲      請打方向燈"></Info>
+		<Info cmsid="nfbCMS-T86-W-6.695-M" status="0"  message="載運物品▲      請綑綁牢固"></Info>
+		<Info cmsid="nfbCMS-T86-W-11-L-S-1" status="0"  message="酒後不開車▲  安全有保障"></Info>
+		<Info cmsid="nfbCMS-T88-E-7-L-N-1" status="0"  message="變換車道前▲請開方向燈"></Info>
+		<Info cmsid="nfbCMS-T88-E-2-L-N-1" status="0"  message="台88東向6-7K▲施工"></Info>
+		<Info cmsid="nfbCMS-T88-E-1.502-M" status="0"  message="關"></Info>
+		<Info cmsid="nfbCMS-T88-E-5.606-M" status="0"  message="關"></Info>
+		<Info cmsid="nfbCMS-T88-E-8.341-M" status="0"  message="為愛啟程為愛▲出發安全駕駛"></Info>
+		<Info cmsid="nfbCMS-T88-E-14.556-M" status="0"  message="酒駕致人於死▲可處10年徒刑"></Info>
+		<Info cmsid="nfbCMS-T88-E-19.768-M" status="0"  message="關"></Info>
+		<Info cmsid="nfbCMS-T88-E-22-L-NW-1" status="0"  message="酒駕致人於死▲可處10年徒刑"></Info>
+		<Info cmsid="nfbCMS-T88-W-22-L-SW-1" status="0"  message="酒駕害人害己▲別再心存僥倖"></Info>
+		<Info cmsid="nfbCMS-T88-W-17.348-M" status="0"  message="至五甲系統  ▲      約13分"></Info>
+		<Info cmsid="nfbCMS-T88-W-13.960-M" status="0"  message="載運物品▲請捆綁牢固"></Info>
+		<Info cmsid="nfbCMS-T88-W-7.839-M" status="0"  message="請勿超速行駛▲注意車前狀態"></Info>
+		<Info cmsid="nfbCMS-T88-W-3.464-M" status="0"  message="酒駕致人於死▲可處10年徒刑"></Info>
+		<Info cmsid="nfbCMS-T88-W-0.549-M" status="0"  message="關"></Info>
+		<Info cmsid="nfbCMS-T88-W-2-L-S-1" status="0"  message="台88東向6-7K▲施工"></Info>
+	</Infos>
+</XML_Head>
