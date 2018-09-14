@@ -1,3 +1,6 @@
+import gzip
+
+import requests
 import matplotlib
 import matplotlib.pyplot as plt
 import mplcursors
@@ -31,6 +34,12 @@ def parse_cmsid(cmsid):
     return CMSID(id_, way, float(km))
 
 
+def get_cms_from_cloud():
+    URL = 'http://tisvcloud.freeway.gov.tw/cms_value.xml.gz'
+    r = requests.get(URL)
+    return etree.fromstring(gzip.decompress(r.content))
+
+
 def read_cms():
     return etree.parse(CMS_FILENAME)
 
@@ -57,7 +66,6 @@ def draw(root, which):
     mc_msg = [i[0] for i in mc]
     d = defaultdict(list)
 
-    print(mc)
     for i in mc:
         print(i)
     for v in cms:
@@ -86,12 +94,12 @@ def draw(root, which):
     plt.legend(loc='lower right', bbox_to_anchor=(1.1, -0.2))
     plt.title('國道一號 CMS 超速類型')
     mplcursors.cursor(hover=True)
-    plt.savefig('N1_speeding.jpg', dpi=100)
-
+    plt.savefig('N1_speeding.png', dpi=100)
 
 
 def main():
-    root = read_cms()
+    root = get_cms_from_cloud()
+    # root = read_cms()
     draw(root, 'N1')
 
 
